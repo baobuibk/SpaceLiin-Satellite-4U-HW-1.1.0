@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BEE-1012 PAY-EXP_V100.PrjPcb]
+   Generated File[BEE_1012 PAY-EXP V100.TXT]
+   Generated File[BEE_1012 PAY-EXP V100.LDP]
+   Generated File[BEE_1012 PAY-EXP V100.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:11:48 PM On 1/27/2026
