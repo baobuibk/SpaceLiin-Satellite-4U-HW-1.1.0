@@ -634,7 +634,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=39
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -2283,7 +2283,7 @@ Net17=NetName=5V_MAIN|NetColor=$006E6EFF
 Net18=NetName=5V_MCU|NetColor=$006E6EFF
 Net19=NetName=5V_SOM|NetColor=$006E6EFF
 Net20=NetName=EXP_12V|NetColor=$00220EEE
-Net21=NetName=GND|NetColor=$00B0B0B0
+Net21=NetName=GND|NetColor=$00006699
 Net22=NetName=GND_12V_AUX|NetColor=$00003366
 Net23=NetName=GND_5V_AUX|NetColor=$00336666
 Net24=NetName=Heat_I2C4_SCL|NetColor=$00FFFF6E

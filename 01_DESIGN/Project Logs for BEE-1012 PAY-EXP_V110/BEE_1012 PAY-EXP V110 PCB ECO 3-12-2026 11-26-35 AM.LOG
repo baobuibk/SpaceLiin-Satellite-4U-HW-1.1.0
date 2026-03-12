@@ -1,0 +1,97 @@
+Removed Pin From Net: NetName=TEC_nCS_2 Pin=R134-2
+Removed Pin From Net: NetName=5V_MCU Pin=R261-1
+Change Footprint: Cannot match pads with new footprint in component :TP1 Footprint:TP_1mm_SMD
+Change Footprint: Cannot match pads with new footprint in component :TP2 Footprint:TP_1mm_SMD
+Change Footprint: Cannot match pads with new footprint in component :TP5 Footprint:TP_1mm_SMD
+Change Footprint: Cannot match pads with new footprint in component :TP17 Footprint:TP_1mm_SMD
+Change Footprint: Cannot match pads with new footprint in component :TP18 Footprint:TP_1mm_SMD
+Added Component: Designator=U67(IC_BME688)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BME688"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found SOP65P440W-24N
+Add component: Footprint Not Found SOP65P440W-24N
+Added Pin To Net: NetName=5V_MCU Pin=R134-2
+Added Pin To Net: NetName=TEC_nCS_2 Pin=R134-2
+Add Pin To Net: Unknown Pin: Pin TP6-0
+Add Pin To Net: Unknown Pin: Pin TP7-0
+Add Pin To Net: Unknown Pin: Pin TP8-0
+Add Pin To Net: Unknown Pin: Pin TP9-0
+Add Pin To Net: Unknown Pin: Pin TP10-0
+Add Pin To Net: Unknown Pin: Pin TP11-0
+Add Pin To Net: Unknown Pin: Pin TP12-0
+Add Pin To Net: Unknown Pin: Pin TP13-0
+Add Pin To Net: Unknown Pin: Pin TP14-0
+Add Pin To Net: Unknown Pin: Pin TP16-0
+Add Pin To Net: Unknown Pin: Pin TP19-0
+Add Pin To Net: Unknown Pin: Pin TP20-0
+Add Pin To Net: Unknown Pin: Pin TP21-0
+Add Pin To Net: Unknown Pin: Pin TP22-0
+Add Pin To Net: Unknown Pin: Pin TP23-0
+Add Pin To Net: Unknown Pin: Pin TP24-0
+Add Pin To Net: Unknown Pin: Pin TP25-0
+Add Pin To Net: Unknown Pin: Pin TP26-0
+Add Pin To Net: Unknown Pin: Pin TP27-0
+Add Pin To Net: Unknown Pin: Pin TP28-0
+Added Pin To Net: NetName=GND Pin=U67-1
+Added Pin To Net: NetName=NetR501_2 Pin=U67-2
+Added Pin To Net: NetName=NetR502_1 Pin=U67-3
+Added Pin To Net: NetName=NetR503_2 Pin=U67-4
+Added Pin To Net: NetName=GND Pin=U67-5
+Added Pin To Net: NetName=3.3V_MCU Pin=U67-6
+Added Pin To Net: NetName=GND Pin=U67-7
+Added Pin To Net: NetName=3.3V_MCU Pin=U67-8
+Add Pin To Net: Unknown Pin: Pin U69-1
+Add Pin To Net: Unknown Pin: Pin U69-2
+Add Pin To Net: Unknown Pin: Pin U69-3
+Add Pin To Net: Unknown Pin: Pin U69-4
+Add Pin To Net: Unknown Pin: Pin U69-5
+Add Pin To Net: Unknown Pin: Pin U69-6
+Add Pin To Net: Unknown Pin: Pin U69-7
+Add Pin To Net: Unknown Pin: Pin U69-8
+Add Pin To Net: Unknown Pin: Pin U69-9
+Add Pin To Net: Unknown Pin: Pin U69-10
+Add Pin To Net: Unknown Pin: Pin U69-11
+Add Pin To Net: Unknown Pin: Pin U69-12
+Add Pin To Net: Unknown Pin: Pin U69-13
+Add Pin To Net: Unknown Pin: Pin U69-14
+Add Pin To Net: Unknown Pin: Pin U69-15
+Add Pin To Net: Unknown Pin: Pin U69-16
+Add Pin To Net: Unknown Pin: Pin U69-17
+Add Pin To Net: Unknown Pin: Pin U69-18
+Add Pin To Net: Unknown Pin: Pin U69-19
+Add Pin To Net: Unknown Pin: Pin U69-20
+Add Pin To Net: Unknown Pin: Pin U69-21
+Add Pin To Net: Unknown Pin: Pin U69-22
+Add Pin To Net: Unknown Pin: Pin U69-23
+Add Pin To Net: Unknown Pin: Pin U69-24
+Add Pin To Net: Unknown Pin: Pin U70-1
+Add Pin To Net: Unknown Pin: Pin U70-2
+Add Pin To Net: Unknown Pin: Pin U70-3
+Add Pin To Net: Unknown Pin: Pin U70-4
+Add Pin To Net: Unknown Pin: Pin U70-5
+Add Pin To Net: Unknown Pin: Pin U70-6
+Add Pin To Net: Unknown Pin: Pin U70-7
+Add Pin To Net: Unknown Pin: Pin U70-8
+Add Pin To Net: Unknown Pin: Pin U70-9
+Add Pin To Net: Unknown Pin: Pin U70-10
+Add Pin To Net: Unknown Pin: Pin U70-11
+Add Pin To Net: Unknown Pin: Pin U70-12
+Add Pin To Net: Unknown Pin: Pin U70-13
+Add Pin To Net: Unknown Pin: Pin U70-14
+Add Pin To Net: Unknown Pin: Pin U70-15
+Add Pin To Net: Unknown Pin: Pin U70-16
+Add Pin To Net: Unknown Pin: Pin U70-17
+Add Pin To Net: Unknown Pin: Pin U70-18
+Add Pin To Net: Unknown Pin: Pin U70-19
+Add Pin To Net: Unknown Pin: Pin U70-20
+Add Pin To Net: Unknown Pin: Pin U70-21
+Add Pin To Net: Unknown Pin: Pin U70-22
+Add Pin To Net: Unknown Pin: Pin U70-23
+Add Pin To Net: Unknown Pin: Pin U70-24
+Added Member To Class: ClassName=17_I2C_Sensor_OnBoard Member=Component U67 BME688
+Add Class Member: Failed to add class member : Component U69 TCA6416APWR
+Add Class Member: Failed to add class member : Component U70 TCA6416APWR
