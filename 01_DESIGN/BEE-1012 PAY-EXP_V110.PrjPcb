@@ -492,6 +492,23 @@ GenerateClassCluster=0
 DocumentUniqueId=SUGBHWHW
 
 [Document27]
+DocumentPath=13_PRAM.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZMUDNBYD
+
+[Document28]
 DocumentPath=14_NTC_TEMPSENSOR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DENCCUAE
 
-[Document28]
+[Document29]
 DocumentPath=15_HEATER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGNBUCQC
 
-[Document29]
+[Document30]
 DocumentPath=16_TEC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EZMQQJFI
 
-[Document30]
+[Document31]
 DocumentPath=17_FLOW_Sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OASGOWJC
 
-[Document31]
+[Document32]
 DocumentPath=17_I2C_Sensor_OnBoard.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WCNANDCP
 
-[Document32]
+[Document33]
 DocumentPath=18_HD4_PUMP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPQATRTQ
 
-[Document33]
+[Document34]
 DocumentPath=18_HD4_PUMP_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUBRUIQD
 
-[Document34]
+[Document35]
 DocumentPath=19_SOLENOID_HB_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XXEXTVJS
 
-[Document35]
+[Document36]
 DocumentPath=19_SOLENOID_HB_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -644,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UBAOFIHD
 
-[Document36]
+[Document37]
 DocumentPath=19_SOLENOID_OF.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -661,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KMWNCBVX
 
-[Document37]
+[Document38]
 DocumentPath=20_AI_Board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -678,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGIJMPDC
 
-[Document38]
+[Document39]
 DocumentPath=MOUTING.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -695,7 +712,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKWPWHIP
 
-[Document39]
+[Document40]
 DocumentPath=SLT.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,7 +729,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document41]
 DocumentPath=BEE_1012 PAY-EXP V110.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -729,7 +746,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QIIBGSYK
 
-[Document41]
+[Document42]
 DocumentPath=ANA_SWITCH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -746,7 +763,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CKJBSNVS
 
-[Document42]
+[Document43]
 DocumentPath=..\05_SMT\BEE-1012 PAY-EXP V100.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -763,7 +780,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UAIBTCHR
 
-[Document43]
+[Document44]
 DocumentPath=Project Outputs for BEE-1012 PAY-EXP_V100\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -780,7 +797,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document45]
 DocumentPath=Project Outputs for BEE-1012 PAY-EXP_V100\CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1110,32 +1127,32 @@ DocumentPath=Project Outputs for SLT_110\SLT_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ApprovedBy
-Value=Vu Pham
+Name=SubSystem
+Value=PAY-EXP
 
 [Parameter2]
-Name=CheckedBy
-Value=Bao Bui
+Name=Revision
+Value=1.1.0
 
 [Parameter3]
-Name=Date
-Value=03/11/2026
+Name=MasterProject
+Value=BEE-1012
 
 [Parameter4]
 Name=DrawnBy
 Value=Cam Doan
 
 [Parameter5]
-Name=MasterProject
-Value=BEE-1012
+Name=Date
+Value=03/11/2026
 
 [Parameter6]
-Name=Revision
-Value=1.1.0
+Name=CheckedBy
+Value=Bao Bui
 
 [Parameter7]
-Name=SubSystem
-Value=PAY-EXP
+Name=ApprovedBy
+Value=Vu Pham
 
 [Configuration1]
 Name=Sources
@@ -1616,6 +1633,18 @@ OutputName3=Component Cross Reference Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+Configuration3_Name1=ColumnNameFormat
+Configuration3_Item1=CaptionAsName
+Configuration3_Name2=ForceUpdateSettings
+Configuration3_Item2=False
+Configuration3_Name3=General
+Configuration3_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration3_Name4=GroupOrder
+Configuration3_Item4=Document=True
+Configuration3_Name5=SortOrder
+Configuration3_Item5=Document=Up|Designator=Up
+Configuration3_Name6=VisibleOrder
+Configuration3_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType4=Export Comments
 OutputName4=Export Comments
 OutputDocumentPath4=
