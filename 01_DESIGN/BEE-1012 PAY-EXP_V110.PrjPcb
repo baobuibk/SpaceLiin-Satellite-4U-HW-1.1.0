@@ -39,7 +39,7 @@ LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
 CrossRefSheetStyle=2
-CrossRefLocationStyle=1
+CrossRefLocationStyle=2
 CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
@@ -498,7 +498,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=40
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1127,32 +1127,32 @@ DocumentPath=Project Outputs for SLT_110\SLT_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Parameter1]
-Name=SubSystem
-Value=PAY-EXP
+Name=ApprovedBy
+Value=Vu Pham
 
 [Parameter2]
-Name=Revision
-Value=1.1.0
+Name=CheckedBy
+Value=Bao Bui
 
 [Parameter3]
-Name=MasterProject
-Value=BEE-1012
+Name=Date
+Value=03/11/2026
 
 [Parameter4]
 Name=DrawnBy
 Value=Cam Doan
 
 [Parameter5]
-Name=Date
-Value=03/11/2026
+Name=MasterProject
+Value=BEE-1012
 
 [Parameter6]
-Name=CheckedBy
-Value=Bao Bui
+Name=Revision
+Value=1.1.0
 
 [Parameter7]
-Name=ApprovedBy
-Value=Vu Pham
+Name=SubSystem
+Value=PAY-EXP
 
 [Configuration1]
 Name=Sources
