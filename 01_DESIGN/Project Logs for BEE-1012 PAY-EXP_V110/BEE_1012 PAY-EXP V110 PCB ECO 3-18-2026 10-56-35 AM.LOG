@@ -1,0 +1,475 @@
+Removed Pin From Net: NetName=SOM_STATUS_LED_2 Pin=D38-2
+Removed Pin From Net: NetName=MCU_SPI0_MOSI Pin=J23-3
+Removed Pin From Net: NetName=MCU_SPI0_MISO Pin=J23-4
+Removed Pin From Net: NetName=MCU_SPI0_SCK Pin=J23-5
+Removed Pin From Net: NetName=LASER_SPI_nCS1 Pin=J23-6
+Removed Pin From Net: NetName=GND Pin=R303-2
+Removed Pin From Net: NetName=RS422_R\E\ Pin=R308-1
+Removed Pin From Net: NetName=RS422_DE Pin=R309-1
+Removed Pin From Net: NetName=VDD_3V3_MPU Pin=R351-1
+Removed Pin From Net: NetName=VDD_3V3_MPU Pin=R352-1
+Removed Pin From Net: NetName=SOM_PHOTO_SW_nCS Pin=R359-1
+Removed Pin From Net: NetName=_PE2 Pin=R359-2
+Removed Pin From Net: NetName=SOM_USB_LED_1 Pin=R389-1
+Removed Pin From Net: NetName=SOM_PRAM_SPI_SCK Pin=R395-1
+Removed Pin From Net: NetName=NetC300_2 Pin=R402-1
+Removed Pin From Net: NetName=WD_nRESET Pin=R402-2
+Removed Pin From Net: NetName=_PC7 Pin=R452-2
+Removed Pin From Net: NetName=_PC8 Pin=R454-2
+Removed Pin From Net: NetName=SOM_PRAM_nCS Pin=R456-1
+Removed Pin From Net: NetName=SOM_PRAM_SPI_MOSI Pin=R457-1
+Removed Pin From Net: NetName=SOM_PRAM_SPI_MISO Pin=R458-1
+Removed Pin From Net: NetName=NetR337_2 Pin=R526-1
+Removed Pin From Net: NetName=_PC16 Pin=R526-2
+Removed Pin From Net: NetName=SOM_USB_LED_2 Pin=R530-1
+Removed Pin From Net: NetName=_PD28 Pin=R530-2
+Removed Pin From Net: NetName=SOM_STATUS_LED_1 Pin=R531-1
+Removed Pin From Net: NetName=_PD30 Pin=R531-2
+Removed Pin From Net: NetName=SOM_STATUS_LED_2 Pin=R532-1
+Removed Pin From Net: NetName=_PD31 Pin=R532-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R578-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R579-2
+Removed Pin From Net: NetName=SOM_PRAM_nCS Pin=R580-1
+Removed Pin From Net: NetName=3.3V_SAMA7 Pin=R580-2
+Removed Pin From Net: NetName=CPU_PRAM_SW_nEN1 Pin=R581-1
+Removed Pin From Net: NetName=3.3V_MCU Pin=R581-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R582-2
+Removed Pin From Net: NetName=MCU_PRAM_SPI1_nCS Pin=R583-1
+Removed Pin From Net: NetName=3.3V_MCU Pin=R583-2
+Removed Pin From Net: NetName=3.3V_SAMA7 Pin=R584-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R585-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R586-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R587-2
+Removed Pin From Net: NetName=_PB6 Pin=U29-T19
+Removed Pin From Net: NetName=_PB4 Pin=U29-T20
+Removed Pin From Net: NetName=_PB7 Pin=U29-V17
+Removed Pin From Net: NetName=_PB5 Pin=U29-V18
+Removed Pin From Net: NetName=PRAM_nCS Pin=U72-4
+Removed Pin From Net: NetName=PRAM_SCK Pin=U72-7
+Removed Pin From Net: NetName=GND Pin=U72-8
+Removed Pin From Net: NetName=PRAM_MOSI Pin=U72-9
+Removed Pin From Net: NetName=PRAM_MISO Pin=U72-12
+Removed Pin From Net: NetName=3.3V_MCU Pin=U72-16
+Removed Pin From Net: NetName=PRAM_nCS Pin=U73-1
+Removed Pin From Net: NetName=PRAM_MISO Pin=U73-2
+Removed Pin From Net: NetName=GND Pin=U73-4
+Removed Pin From Net: NetName=PRAM_MOSI Pin=U73-5
+Removed Pin From Net: NetName=PRAM_SCK Pin=U73-6
+Removed Pin From Net: NetName=3.3V_MCU Pin=U73-8
+Removed Member From Class: ClassName=08_SAMA7G54-MPU Member=R303
+Removed Member From Class: ClassName=08_SAMA7G54-PMIC Member=R351
+Removed Member From Class: ClassName=08_SAMA7G54-PMIC Member=R352
+Removed Member From Class: ClassName=08_SAMA7G54-PIO Member=R359
+Removed Member From Class: ClassName=08_SAMA7G54-PIO Member=R389
+Removed Member From Class: ClassName=08_SAMA7G54-PIO Member=R452
+Removed Member From Class: ClassName=08_SAMA7G54-PIO Member=R454
+Removed Member From Class: ClassName=08_SAMA7G54-MPU Member=R504
+Removed Member From Class: ClassName=08_SAMA7G54-PIO Member=R526
+Removed Member From Class: ClassName=08_SAMA7G54-PIO Member=R530
+Change Footprint: Cannot match pads with new footprint in component :TP1 Footprint:TP_1mm_SMD
+Change Footprint: Cannot match pads with new footprint in component :TP2 Footprint:TP_1mm_SMD
+Change Footprint: Cannot match pads with new footprint in component :TP5 Footprint:TP_1mm_SMD
+Change Footprint: Cannot match pads with new footprint in component :TP17 Footprint:TP_1mm_SMD
+Change Footprint: Cannot match pads with new footprint in component :TP18 Footprint:TP_1mm_SMD
+Change Component Footprint: Designator=C299 Old Footprint=CAP_C_0603X30 New Footprint=CAP_C_1005X60
+Change Component Footprint: Designator=C300 Old Footprint=CAP_C_0603X30 New Footprint=CAP_C_1005X60
+Change Component Footprint: Designator=D37 Old Footprint=LED_0402 New Footprint=LED_0603
+Change Component Footprint: Designator=D38 Old Footprint=LED_0402 New Footprint=LED_0603
+Change Component Footprint: Designator=R452 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005x30_L
+Change Component Footprint: Designator=R454 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005x30_L
+Change Component Footprint: Designator=R526 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005x30_L
+Change Component Footprint: Designator=R530 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005x30_L
+Change Component Footprint: Designator=R359 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R389 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R390 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R391 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R460 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R461 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R533 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R534 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R535 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R536 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R550 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R551 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R322 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R323 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R325 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R328 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1608X60
+Change Component Footprint: Designator=R578 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_0603X30
+Change Component Footprint: Designator=R579 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_0603X30
+Change Component Footprint: Designator=R580 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_0603X30
+Change Component Footprint: Designator=R581 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_0603X30
+Change Component Footprint: Designator=R582 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_0603X30
+Change Component Footprint: Designator=R583 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_0603X30
+Change Component Footprint: Designator=R584 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_0603X30
+Change Component Footprint: Designator=R585 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_0603X30
+Change Component Footprint: Designator=R588 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_0603X30
+Change Component Footprint: Designator=R590 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_0603X30
+Change Component Footprint: Designator=R586 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R587 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R589 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R591 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R351 Old Footprint=RES_C_1608X60_L New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R352 Old Footprint=RES_C_1608X60_L New Footprint=RES_C_1005X40
+Change Footprint: Footprint Not Found TPS5430DDAR_V3
+Change Component Footprint: Designator=U72 Old Footprint=SOIC_PRQ1_TEX New Footprint=SOIC8_150MIL_N_ISI
+Change Component Comment : Designator=R504 Old Comment=0R New Comment=4.7k
+Change Component Comment : Designator=R303 Old Comment=0R New Comment=22R
+Change Component Comment : Designator=R351 Old Comment=0R New Comment=22R
+Change Component Comment : Designator=R352 Old Comment=0R New Comment=22R
+Change Component Comment : Designator=R323 Old Comment=0R New Comment=DNP/0R
+Change Component Comment : Designator=R402 Old Comment=1k New Comment=4.7k
+Change Component Comment : Designator=C353 Old Comment=2.2uF/10V New Comment=4.7uF/10V
+Change Component Comment : Designator=R537 Old Comment=3.24k New Comment=1k
+Change Component Comment : Designator=R538 Old Comment=3.24k New Comment=1k
+Change Component Comment : Designator=R578 Old Comment=4.7k New Comment=22R
+Change Component Comment : Designator=R579 Old Comment=4.7k New Comment=22R
+Change Component Comment : Designator=R580 Old Comment=4.7k New Comment=22R
+Change Component Comment : Designator=R581 Old Comment=4.7k New Comment=22R
+Change Component Comment : Designator=R582 Old Comment=4.7k New Comment=22R
+Change Component Comment : Designator=R583 Old Comment=4.7k New Comment=22R
+Change Component Comment : Designator=R584 Old Comment=4.7k New Comment=22R
+Change Component Comment : Designator=R585 Old Comment=4.7k New Comment=22R
+Change Component Comment : Designator=R586 Old Comment=4.7k New Comment=DNP/10k
+Change Component Comment : Designator=R587 Old Comment=4.7k New Comment=DNP/10k
+Change Component Comment : Designator=R452 Old Comment=22R New Comment=4.7k
+Change Component Comment : Designator=R454 Old Comment=22R New Comment=4.7k
+Change Component Comment : Designator=R526 Old Comment=22R New Comment=4.7k
+Change Component Comment : Designator=R530 Old Comment=22R New Comment=4.7k
+Change Component Comment : Designator=R589 Old Comment=22R New Comment=DNP/10k
+Change Component Comment : Designator=R591 Old Comment=22R New Comment=DNP/10k
+Change Component Comment : Designator=R322 Old Comment=22R New Comment=DNP/22R
+Change Component Comment : Designator=R325 Old Comment=DNP/0R New Comment=0R
+Change Component Comment : Designator=R328 Old Comment=DNP/0R New Comment=0R
+Change Component Comment : Designator=Y2 Old Comment=DSC10xx DFN-4 New Comment=DNP/DSC10xx DFN-4
+Change Component Comment : Designator=Y4 Old Comment=DSC60xx DFN-4_LGA-4 New Comment=DNP/DSC60xx DFN-4_LGA-4
+Change Component Comment : Designator=U73 Old Comment=IS66WVS8M8FBLL-104NLI New Comment=TPS5430DDAR
+Change Component Comment : Designator=U72 Old Comment=SN3257QPWRQ1 New Comment=IS66WVS8M8FBLL-104NLI
+Change component parameters: Designator = "U72" ("U72"); Footprint = "SOIC_PRQ1_TEX"; UniqueID = "\HBXEVIVR" ("\HBXEVIVR")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ISSI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IS66WVS4M8BLL-104NLI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Memory"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U73" ("U73"); Footprint = "SOIC8_150MIL_N_ISI"; UniqueID = "\GNLSBUMG" ("\GNLSBUMG")
+Added Component: Designator=C394(CAP_C_1608X80)
+Added Component: Designator=C395(CAP_C_3225X80)
+Added Component: Designator=C396(CAP_C_1005X50_L)
+Added Component: Designator=C397(CAP_C_1005X50_L)
+Added Component: Designator=C398(CAP_C_3225X80)
+Added Component: Designator=D25(LED_0603)
+Added Component: Designator=D26(DO-214AC_SMA)
+Added Component: Designator=DS14(LED_0402)
+Added Component: Designator=H5(HEX-M3_NoVia)
+Added Component: Designator=L11(PSM6050)
+Added Component: Designator=R592(RES_C_1005X40)
+Added Component: Designator=R593(RES_C_1005X40)
+Added Component: Designator=R594(RES_C_0603X30)
+Added Component: Designator=R595(RES_C_0603X30)
+Added Component: Designator=R596(RES_C_0603X30)
+Added Component: Designator=R597(RES_C_0603X30)
+Added Component: Designator=R598(RES_C_0603X30)
+Added Component: Designator=R599(RES_C_0603X30)
+Added Component: Designator=R600(RES_C_0603X30)
+Added Component: Designator=R601(RES_C_0603X30)
+Added Component: Designator=R602(RES_C_0603X30)
+Added Component: Designator=R603(RES_C_1005x30_L)
+Added Component: Designator=R604(RES_C_1005x30_L)
+Added Component: Designator=R605(RES_C_1005x30_L)
+Added Component: Designator=R606(RES_C_1005x30_L)
+Add component: Footprint Not Found VQFN-HR-10
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=C261-1
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=C262-1
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=C263-1
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=C264-1
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=C266-1
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=C268-1
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=C273-1
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=C274-1
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=C275-1
+Added Pin To Net: NetName=GND Pin=C395-1
+Added Pin To Net: NetName=EXP_12V Pin=C395-2
+Added Pin To Net: NetName=GND Pin=C396-1
+Added Pin To Net: NetName=EXP_12V Pin=C396-2
+Added Pin To Net: NetName=GND Pin=C397-1
+Added Pin To Net: NetName=5V_MCU Pin=C397-2
+Added Pin To Net: NetName=GND Pin=C398-1
+Added Pin To Net: NetName=5V_MCU Pin=C398-2
+Added Pin To Net: NetName=GND Pin=D26-2
+Added Pin To Net: NetName=5V_MCU Pin=DS14-2
+Added Pin To Net: NetName=GND Pin=H5-1
+Added Pin To Net: NetName=5V_MCU Pin=L11-2
+Added Pin To Net: NetName=NetC15_2 Pin=R303-1
+Added Pin To Net: NetName=WD_nRESET Pin=R303-2
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=R306-2
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=R332-2
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=R339-2
+Added Pin To Net: NetName=MCU_SPI0_MOSI Pin=R351-1
+Added Pin To Net: NetName=MCU_SPI0_MISO Pin=R352-1
+Added Pin To Net: NetName=MCU_SPI0_SCK Pin=R359-1
+Added Pin To Net: NetName=LASER_SPI_nCS1 Pin=R389-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R402-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R452-2
+Added Pin To Net: NetName=SOM_PRAM_nCS Pin=R454-1
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=R454-2
+Added Pin To Net: NetName=CPU_PRAM_SW_nEN1 Pin=R504-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R504-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R526-2
+Added Pin To Net: NetName=MCU_PRAM_SPI1_nCS Pin=R530-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R530-2
+Added Pin To Net: NetName=RS422_R\E\ Pin=R531-1
+Added Pin To Net: NetName=SOM_USB_LED_1 Pin=R532-1
+Added Pin To Net: NetName=SOM_USB_LED_2 Pin=R578-1
+Added Pin To Net: NetName=_PE2 Pin=R578-2
+Added Pin To Net: NetName=SOM_PRAM_SPI_MOSI Pin=R579-1
+Added Pin To Net: NetName=_PB4 Pin=R579-2
+Added Pin To Net: NetName=SOM_PRAM_SPI_MISO Pin=R580-1
+Added Pin To Net: NetName=_PB5 Pin=R580-2
+Added Pin To Net: NetName=SOM_PRAM_SPI_SCK Pin=R581-1
+Added Pin To Net: NetName=_PB6 Pin=R581-2
+Added Pin To Net: NetName=SOM_PRAM_nCS Pin=R582-1
+Added Pin To Net: NetName=_PB7 Pin=R582-2
+Added Pin To Net: NetName=SOM_PHOTO_SW_nCS Pin=R583-1
+Added Pin To Net: NetName=_PB8 Pin=R584-2
+Added Pin To Net: NetName=SOM_STATUS_LED_1 Pin=R585-1
+Added Pin To Net: NetName=5V_SAMA7 Pin=R586-1
+Added Pin To Net: NetName=_PC3 Pin=R586-2
+Added Pin To Net: NetName=_PC3 Pin=R587-1
+Added Pin To Net: NetName=GND Pin=R587-2
+Added Pin To Net: NetName=NetR337_2 Pin=R588-1
+Added Pin To Net: NetName=_PC8 Pin=R588-2
+Added Pin To Net: NetName=5V_SAMA7 Pin=R589-1
+Added Pin To Net: NetName=5V_SAMA7 Pin=R591-1
+Added Pin To Net: NetName=GND Pin=R592-2
+Added Pin To Net: NetName=GND Pin=R593-2
+Added Pin To Net: NetName=SOM_STATUS_LED_2 Pin=R596-1
+Added Pin To Net: NetName=RS422_DE Pin=R600-1
+Added Pin To Net: NetName=_PD31 Pin=R600-2
+Added Pin To Net: NetName=SOM_STATUS_LED_2 Pin=R602-1
+Added Pin To Net: NetName=GND Pin=R603-2
+Added Pin To Net: NetName=5V_MCU Pin=R604-2
+Added Pin To Net: NetName=GND Pin=R605-1
+Added Pin To Net: NetName=GND Pin=R606-1
+Add Pin To Net: Unknown Pin: Pin TP6-0
+Add Pin To Net: Unknown Pin: Pin TP7-0
+Add Pin To Net: Unknown Pin: Pin TP8-0
+Add Pin To Net: Unknown Pin: Pin TP9-0
+Add Pin To Net: Unknown Pin: Pin TP10-0
+Add Pin To Net: Unknown Pin: Pin TP11-0
+Add Pin To Net: Unknown Pin: Pin TP12-0
+Add Pin To Net: Unknown Pin: Pin TP13-0
+Add Pin To Net: Unknown Pin: Pin TP14-0
+Add Pin To Net: Unknown Pin: Pin TP16-0
+Add Pin To Net: Unknown Pin: Pin TP19-0
+Add Pin To Net: Unknown Pin: Pin TP20-0
+Add Pin To Net: Unknown Pin: Pin TP21-0
+Add Pin To Net: Unknown Pin: Pin TP22-0
+Add Pin To Net: Unknown Pin: Pin TP23-0
+Add Pin To Net: Unknown Pin: Pin TP24-0
+Add Pin To Net: Unknown Pin: Pin TP25-0
+Add Pin To Net: Unknown Pin: Pin TP26-0
+Add Pin To Net: Unknown Pin: Pin TP27-0
+Add Pin To Net: Unknown Pin: Pin TP28-0
+Added Pin To Net: NetName=GND Pin=U29-AA9
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=U29-B2
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=U29-C5
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=U29-C8
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=U29-E3
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=U29-F7
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=U29-H3
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=U29-P11
+Added Pin To Net: NetName=_PB7 Pin=U29-T19
+Added Pin To Net: NetName=_PB5 Pin=U29-T20
+Added Pin To Net: NetName=_PB6 Pin=U29-V18
+Added Pin To Net: NetName=_PB4 Pin=U29-V19
+Added Pin To Net: NetName=PRAM_nCS Pin=U71-4
+Added Pin To Net: NetName=PRAM_SCK Pin=U71-7
+Added Pin To Net: NetName=PRAM_MOSI Pin=U71-9
+Added Pin To Net: NetName=PRAM_MISO Pin=U71-12
+Added Pin To Net: NetName=PRAM_nCS Pin=U72-1
+Added Pin To Net: NetName=PRAM_MISO Pin=U72-2
+Added Pin To Net: NetName=GND Pin=U72-4
+Added Pin To Net: NetName=PRAM_MOSI Pin=U72-5
+Added Pin To Net: NetName=PRAM_SCK Pin=U72-6
+Added Pin To Net: NetName=3.3V_MCU Pin=U72-8
+Added Pin To Net: NetName=GND Pin=U73-6
+Added Pin To Net: NetName=EXP_12V Pin=U73-7
+Add Pin To Net: Unknown Pin: Pin U73-9
+Add Pin To Net: Unknown Pin: Pin U74-1
+Add Pin To Net: Unknown Pin: Pin U74-2
+Add Pin To Net: Unknown Pin: Pin U74-3
+Add Pin To Net: Unknown Pin: Pin U74-4
+Add Pin To Net: Unknown Pin: Pin U74-5
+Add Pin To Net: Unknown Pin: Pin U74-6
+Add Pin To Net: Unknown Pin: Pin U74-7
+Add Pin To Net: Unknown Pin: Pin U74-8
+Add Pin To Net: Unknown Pin: Pin U74-9
+Add Pin To Net: Unknown Pin: Pin U74-10
+Change Net Name : Old Net Name=AI_UART_RX New Net Name=AI_UART_TX
+Change Net Name : Old Net Name=AI_UART_TX New Net Name=AI_UART_RX
+Added Pin To Net: NetName=_PA13 Pin=R585-2
+Added Pin To Net: NetName=_PA13 Pin=U29-AA16
+Added Net: Name=_PA13
+Added Pin To Net: NetName=_PC18 Pin=R594-2
+Added Pin To Net: NetName=_PC18 Pin=U29-C4
+Added Net: Name=_PC18
+Added Pin To Net: NetName=_PC19 Pin=R595-2
+Added Pin To Net: NetName=_PC19 Pin=U29-G8
+Added Net: Name=_PC19
+Added Pin To Net: NetName=_PD11 Pin=R590-2
+Added Pin To Net: NetName=_PD11 Pin=U29-A20
+Added Net: Name=_PD11
+Added Pin To Net: NetName=_PD20 Pin=R596-2
+Added Pin To Net: NetName=_PD20 Pin=U29-C18
+Added Net: Name=_PD20
+Added Pin To Net: NetName=_PE0 Pin=R531-2
+Added Pin To Net: NetName=_PE0 Pin=U29-E18
+Added Net: Name=_PE0
+Added Pin To Net: NetName=_PE1 Pin=R532-2
+Added Pin To Net: NetName=_PE1 Pin=U29-F14
+Added Net: Name=_PE1
+Added Pin To Net: NetName=_PE7 Pin=R583-2
+Added Pin To Net: NetName=_PE7 Pin=U29-E14
+Added Net: Name=_PE7
+Added Pin To Net: NetName=NetC394_1 Pin=C394-1
+Added Pin To Net: NetName=NetC394_1 Pin=D26-1
+Added Pin To Net: NetName=NetC394_1 Pin=L11-1
+Added Pin To Net: NetName=NetC394_1 Pin=U73-8
+Added Net: Name=NetC394_1
+Added Pin To Net: NetName=NetC394_2 Pin=C394-2
+Added Pin To Net: NetName=NetC394_2 Pin=U73-1
+Added Net: Name=NetC394_2
+Added Pin To Net: NetName=NetD25_1 Pin=D25-1
+Added Pin To Net: NetName=NetD25_1 Pin=R603-1
+Added Net: Name=NetD25_1
+Added Pin To Net: NetName=NetDS14_1 Pin=DS14-1
+Added Pin To Net: NetName=NetDS14_1 Pin=R605-2
+Added Net: Name=NetDS14_1
+Added Pin To Net: NetName=NetJ23_3 Pin=J23-3
+Added Pin To Net: NetName=NetJ23_3 Pin=R351-2
+Added Net: Name=NetJ23_3
+Added Pin To Net: NetName=NetJ23_4 Pin=J23-4
+Added Pin To Net: NetName=NetJ23_4 Pin=R352-2
+Added Net: Name=NetJ23_4
+Added Pin To Net: NetName=NetJ23_5 Pin=J23-5
+Added Pin To Net: NetName=NetJ23_5 Pin=R359-2
+Added Net: Name=NetJ23_5
+Added Pin To Net: NetName=NetJ23_6 Pin=J23-6
+Added Pin To Net: NetName=NetJ23_6 Pin=R389-2
+Added Net: Name=NetJ23_6
+Added Pin To Net: NetName=NetR402_1 Pin=R402-1
+Added Pin To Net: NetName=NetR402_1 Pin=U72-7
+Added Net: Name=NetR402_1
+Added Pin To Net: NetName=NetR452_1 Pin=R452-1
+Added Pin To Net: NetName=NetR452_1 Pin=U72-3
+Added Net: Name=NetR452_1
+Added Pin To Net: NetName=NetR518_1 Pin=R518-1
+Added Pin To Net: NetName=NetR518_1 Pin=R591-2
+Added Pin To Net: NetName=NetR518_1 Pin=R593-1
+Added Net: Name=NetR518_1
+Added Pin To Net: NetName=NetR526_1 Pin=R526-1
+Added Pin To Net: NetName=NetR526_1 Pin=U71-1
+Added Net: Name=NetR526_1
+Added Pin To Net: NetName=NetR589_2 Pin=R589-2
+Added Pin To Net: NetName=NetR589_2 Pin=R590-1
+Added Pin To Net: NetName=NetR589_2 Pin=R592-1
+Added Net: Name=NetR589_2
+Added Pin To Net: NetName=NetR597_2 Pin=R597-2
+Added Pin To Net: NetName=NetR597_2 Pin=U29-F3
+Added Net: Name=NetR597_2
+Added Pin To Net: NetName=NetR598_2 Pin=R598-2
+Added Pin To Net: NetName=NetR598_2 Pin=U29-C2
+Added Net: Name=NetR598_2
+Added Pin To Net: NetName=NetR599_2 Pin=R599-2
+Added Pin To Net: NetName=NetR599_2 Pin=U29-G4
+Added Net: Name=NetR599_2
+Added Pin To Net: NetName=NetR601_2 Pin=R601-2
+Added Pin To Net: NetName=NetR601_2 Pin=U29-D2
+Added Net: Name=NetR601_2
+Added Pin To Net: NetName=NetR604_1 Pin=R604-1
+Added Pin To Net: NetName=NetR604_1 Pin=R606-2
+Added Pin To Net: NetName=NetR604_1 Pin=U73-4
+Added Net: Name=NetR604_1
+Added Pin To Net: NetName=OBC_SPI_MISO Pin=R358-1
+Added Net: Name=OBC_SPI_MISO
+Added Pin To Net: NetName=OBC_SPI_MOSI Pin=R361-1
+Added Net: Name=OBC_SPI_MOSI
+Added Pin To Net: NetName=OBC_SPI_nCS0 Pin=R356-1
+Added Net: Name=OBC_SPI_nCS0
+Added Pin To Net: NetName=OBC_SPI_SPCK Pin=R486-1
+Added Net: Name=OBC_SPI_SPCK
+Added Pin To Net: NetName=SOM_AI_RX Pin=R565-1
+Added Pin To Net: NetName=SOM_AI_RX Pin=R598-1
+Added Net: Name=SOM_AI_RX
+Added Pin To Net: NetName=SOM_AI_TX Pin=R566-1
+Added Pin To Net: NetName=SOM_AI_TX Pin=R597-1
+Added Net: Name=SOM_AI_TX
+Added Pin To Net: NetName=SOM_OBC_I2C9_SCL Pin=J2-6
+Added Pin To Net: NetName=SOM_OBC_I2C9_SCL Pin=R595-1
+Added Net: Name=SOM_OBC_I2C9_SCL
+Added Pin To Net: NetName=SOM_OBC_I2C9_SDA Pin=J2-5
+Added Pin To Net: NetName=SOM_OBC_I2C9_SDA Pin=R594-1
+Added Net: Name=SOM_OBC_I2C9_SDA
+Added Pin To Net: NetName=SOM_RS422_RX Pin=R14-2
+Added Pin To Net: NetName=SOM_RS422_RX Pin=R601-1
+Added Net: Name=SOM_RS422_RX
+Added Pin To Net: NetName=SOM_RS422_TX Pin=R15-2
+Added Pin To Net: NetName=SOM_RS422_TX Pin=R599-1
+Added Net: Name=SOM_RS422_TX
+Added Pin To Net: NetName=SOM_STATUS_LED_3 Pin=D25-2
+Added Pin To Net: NetName=SOM_STATUS_LED_3 Pin=R584-1
+Added Net: Name=SOM_STATUS_LED_3
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component C387 0.1uF/10V
+Added Member To Class: ClassName=20_AI_Board Member=Component C394 0.01uF/16V
+Added Member To Class: ClassName=20_AI_Board Member=Component C395 47uF/25V
+Added Member To Class: ClassName=20_AI_Board Member=Component C396 1uF/20V
+Added Member To Class: ClassName=20_AI_Board Member=Component C397 1uF/20V
+Added Member To Class: ClassName=20_AI_Board Member=Component C398 47uF/25V
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component D25 _LED_GREEN
+Added Member To Class: ClassName=20_AI_Board Member=Component D26 SS54
+Added Member To Class: ClassName=20_AI_Board Member=Component DS14 _LED_RED
+Added Member To Class: ClassName=MOUTING Member=Component H5 M3
+Added Member To Class: ClassName=20_AI_Board Member=Component L11 SRP7050TA-220M
+Added Member To Class: ClassName=11_MCU Member=Component R303 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R351 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R352 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R359 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R389 22R
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R452 4.7k
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R454 4.7k
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R504 4.7k
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R526 4.7k
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R530 4.7k
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R578 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R579 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R580 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R581 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R582 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R583 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R584 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R585 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R586 DNP/10k
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R587 DNP/10k
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R588 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R589 DNP/10k
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R590 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R591 DNP/10k
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R592 DNP/10k
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R593 DNP/10k
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R594 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R595 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R596 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R597 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R598 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R599 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R600 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R601 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R602 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R603 1k
+Added Member To Class: ClassName=20_AI_Board Member=Component R604 10k
+Added Member To Class: ClassName=20_AI_Board Member=Component R605 3.24k
+Added Member To Class: ClassName=20_AI_Board Member=Component R606 3.24k
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component U71 SN3257QPWRQ1
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component U72 IS66WVS8M8FBLL-104NLI
+Added Member To Class: ClassName=20_AI_Board Member=Component U73 TPS5430DDAR
+Add Class Member: Failed to add class member : Component U74 TPS259470ARPWR
