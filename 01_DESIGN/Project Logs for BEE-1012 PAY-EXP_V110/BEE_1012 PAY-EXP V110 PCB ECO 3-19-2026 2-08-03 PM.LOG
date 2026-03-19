@@ -1,0 +1,31 @@
+Change Footprint: Cannot match pads with new footprint in component :TP1 Footprint:TP_1mm_SMD
+Change Footprint: Cannot match pads with new footprint in component :TP2 Footprint:TP_1mm_SMD
+Change Footprint: Cannot match pads with new footprint in component :TP5 Footprint:TP_1mm_SMD
+Change Footprint: Cannot match pads with new footprint in component :TP17 Footprint:TP_1mm_SMD
+Change Footprint: Cannot match pads with new footprint in component :TP18 Footprint:TP_1mm_SMD
+Change Footprint: Footprint Not Found TPS5430DDAR_V3
+Change Component Footprint: Designator=U25 Old Footprint=SOIC127P602X173-8N_EPAD New Footprint=QFN50P400X400X80-25N
+Add Pin To Net: Unknown Pin: Pin TP6-0
+Add Pin To Net: Unknown Pin: Pin TP7-0
+Add Pin To Net: Unknown Pin: Pin TP8-0
+Add Pin To Net: Unknown Pin: Pin TP9-0
+Add Pin To Net: Unknown Pin: Pin TP10-0
+Add Pin To Net: Unknown Pin: Pin TP11-0
+Add Pin To Net: Unknown Pin: Pin TP12-0
+Add Pin To Net: Unknown Pin: Pin TP13-0
+Add Pin To Net: Unknown Pin: Pin TP14-0
+Add Pin To Net: Unknown Pin: Pin TP16-0
+Add Pin To Net: Unknown Pin: Pin TP19-0
+Add Pin To Net: Unknown Pin: Pin TP20-0
+Add Pin To Net: Unknown Pin: Pin TP21-0
+Add Pin To Net: Unknown Pin: Pin TP22-0
+Add Pin To Net: Unknown Pin: Pin TP23-0
+Add Pin To Net: Unknown Pin: Pin TP24-0
+Add Pin To Net: Unknown Pin: Pin TP25-0
+Add Pin To Net: Unknown Pin: Pin TP26-0
+Add Pin To Net: Unknown Pin: Pin TP27-0
+Add Pin To Net: Unknown Pin: Pin TP28-0
+Added Pin To Net: NetName=NetR295_1 Pin=U25-20
+Added Pin To Net: NetName=NetR316_1 Pin=U25-21
+Added Pin To Net: NetName=GND Pin=U25-25
+Add Pin To Net: Unknown Pin: Pin U73-9
