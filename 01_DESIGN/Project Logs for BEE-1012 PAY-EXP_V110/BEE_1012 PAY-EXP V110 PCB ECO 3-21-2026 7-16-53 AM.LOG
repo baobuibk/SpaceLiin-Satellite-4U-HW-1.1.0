@@ -1,0 +1,660 @@
+Removed Pin From Net: NetName=GND Pin=C400-1
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=C400-2
+Removed Pin From Net: NetName=GND Pin=C401-1
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=C401-2
+Removed Pin From Net: NetName=GND Pin=C402-1
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=C402-2
+Removed Pin From Net: NetName=GND Pin=C403-1
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=C403-2
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=C404-2
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=C405-2
+Removed Pin From Net: NetName=GND Pin=C408-1
+Removed Pin From Net: NetName=GND Pin=C409-1
+Removed Pin From Net: NetName=GND Pin=C410-1
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=C410-2
+Removed Pin From Net: NetName=GND Pin=C411-1
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=C411-2
+Removed Pin From Net: NetName=GND Pin=C412-1
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=C412-2
+Removed Pin From Net: NetName=GND Pin=C413-1
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=C413-2
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=C414-2
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=C415-2
+Removed Pin From Net: NetName=GND Pin=C418-1
+Removed Pin From Net: NetName=GND Pin=C419-1
+Removed Pin From Net: NetName=GND Pin=C420-1
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=C420-2
+Removed Pin From Net: NetName=GND Pin=C421-1
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=C421-2
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=C422-2
+Removed Pin From Net: NetName=GND Pin=C424-1
+Removed Pin From Net: NetName=MCU_SPI0_MISO Pin=R475-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R476-1
+Removed Pin From Net: NetName=3.3V_MCU Pin=R477-1
+Removed Pin From Net: NetName=MCU_SPI0_MISO Pin=R477-2
+Removed Pin From Net: NetName=MCU_SPI0_MISO Pin=R478-1
+Removed Pin From Net: NetName=MCU_SPI0_MISO Pin=R479-1
+Removed Pin From Net: NetName=MCU_SPI0_nCS_SOLE_A Pin=R480-1
+Removed Pin From Net: NetName=MCU_SPI0_nCS_SOLE_D Pin=R481-1
+Removed Pin From Net: NetName=MCU_SPI0_SCK Pin=R482-1
+Removed Pin From Net: NetName=MCU_SPI0_SCK Pin=R483-1
+Removed Pin From Net: NetName=MCU_SPI0_MOSI Pin=R484-1
+Removed Pin From Net: NetName=MCU_SPI0_MOSI Pin=R488-1
+Removed Pin From Net: NetName=3.3V_MCU Pin=R491-1
+Removed Pin From Net: NetName=3.3V_MCU Pin=R492-1
+Removed Pin From Net: NetName=MCU_SPI0_CMD_SOLE_A Pin=R493-1
+Removed Pin From Net: NetName=MCU_SPI0_CMD_SOLE_D Pin=R494-1
+Removed Pin From Net: NetName=GND Pin=R495-1
+Removed Pin From Net: NetName=GND Pin=R496-1
+Removed Pin From Net: NetName=3.3V_MCU Pin=R498-1
+Removed Pin From Net: NetName=MCU_SPI0_MISO Pin=R498-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R500-1
+Removed Pin From Net: NetName=MCU_SPI0_MISO Pin=R500-2
+Removed Pin From Net: NetName=MCU_SPI0_MISO Pin=R544-1
+Removed Pin From Net: NetName=MCU_SPI0_nCS_SOLE_B Pin=R548-1
+Removed Pin From Net: NetName=MCU_SPI0_MISO Pin=R549-1
+Removed Pin From Net: NetName=MCU_SPI0_SCK Pin=R564-1
+Removed Pin From Net: NetName=MCU_SPI0_nCS_SOLE_E Pin=R567-1
+Removed Pin From Net: NetName=MCU_SPI0_MOSI Pin=R568-1
+Removed Pin From Net: NetName=MCU_SPI0_CMD_SOLE_B Pin=R572-1
+Removed Pin From Net: NetName=3.3V_MCU Pin=R573-1
+Removed Pin From Net: NetName=MCU_SPI0_CMD_SOLE_E Pin=R625-1
+Removed Pin From Net: NetName=GND Pin=R626-1
+Removed Pin From Net: NetName=GND Pin=R627-1
+Removed Pin From Net: NetName=3.3V_MCU Pin=R628-1
+Removed Pin From Net: NetName=3.3V_MCU Pin=R629-1
+Removed Pin From Net: NetName=MCU_SPI0_MISO Pin=R629-2
+Removed Pin From Net: NetName=MCU_SPI0_MISO Pin=R630-1
+Removed Pin From Net: NetName=MCU_SPI0_nCS_SOLE_C Pin=R631-1
+Removed Pin From Net: NetName=MCU_SPI0_SCK Pin=R632-1
+Removed Pin From Net: NetName=MCU_SPI0_MOSI Pin=R633-1
+Removed Pin From Net: NetName=3.3V_MCU Pin=R634-1
+Removed Pin From Net: NetName=MCU_SPI0_CMD_SOLE_C Pin=R635-1
+Removed Pin From Net: NetName=GND Pin=R636-1
+Removed Pin From Net: NetName=NetR474_2 Pin=U400-1
+Removed Pin From Net: NetName=NetR493_2 Pin=U400-2
+Removed Pin From Net: NetName=NetR480_2 Pin=U400-3
+Removed Pin From Net: NetName=GND Pin=U400-4
+Removed Pin From Net: NetName=NetR482_2 Pin=U400-5
+Removed Pin From Net: NetName=NetR484_2 Pin=U400-6
+Removed Pin From Net: NetName=NetR478_2 Pin=U400-7
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U400-9
+Removed Pin From Net: NetName=SOLE3_OUT1 Pin=U400-10
+Removed Pin From Net: NetName=SOLE3_OUT2 Pin=U400-11
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U400-12
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U400-13
+Removed Pin From Net: NetName=SOLE4_OUT2 Pin=U400-14
+Removed Pin From Net: NetName=SOLE4_OUT1 Pin=U400-15
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U400-16
+Removed Pin From Net: NetName=NetR495_2 Pin=U400-18
+Removed Pin From Net: NetName=GND Pin=U400-19
+Removed Pin From Net: NetName=NetR491_2 Pin=U400-21
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U400-25
+Removed Pin From Net: NetName=SOLE2_OUT2 Pin=U400-26
+Removed Pin From Net: NetName=SOLE2_OUT1 Pin=U400-27
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U400-28
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U400-29
+Removed Pin From Net: NetName=SOLE1_OUT2 Pin=U400-30
+Removed Pin From Net: NetName=SOLE1_OUT1 Pin=U400-31
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U400-32
+Removed Pin From Net: NetName=GND Pin=U400-33
+Removed Pin From Net: NetName=NetR476_2 Pin=U401-1
+Removed Pin From Net: NetName=NetR494_2 Pin=U401-2
+Removed Pin From Net: NetName=GND Pin=U401-4
+Removed Pin From Net: NetName=NetR488_2 Pin=U401-6
+Removed Pin From Net: NetName=NetR479_2 Pin=U401-7
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U401-9
+Removed Pin From Net: NetName=SOLE15_OUT1 Pin=U401-10
+Removed Pin From Net: NetName=SOLE15_OUT2 Pin=U401-11
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U401-12
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U401-13
+Removed Pin From Net: NetName=SOLE16_OUT2 Pin=U401-14
+Removed Pin From Net: NetName=SOLE16_OUT1 Pin=U401-15
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U401-16
+Removed Pin From Net: NetName=NetR496_2 Pin=U401-18
+Removed Pin From Net: NetName=GND Pin=U401-19
+Removed Pin From Net: NetName=NetR492_2 Pin=U401-21
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U401-25
+Removed Pin From Net: NetName=SOLE14_OUT2 Pin=U401-26
+Removed Pin From Net: NetName=SOLE14_OUT1 Pin=U401-27
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U401-28
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U401-29
+Removed Pin From Net: NetName=SOLE13_OUT2 Pin=U401-30
+Removed Pin From Net: NetName=SOLE13_OUT1 Pin=U401-31
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U401-32
+Removed Pin From Net: NetName=GND Pin=U401-33
+Removed Pin From Net: NetName=NetR497_2 Pin=U402-1
+Removed Pin From Net: NetName=NetR572_2 Pin=U402-2
+Removed Pin From Net: NetName=NetR548_2 Pin=U402-3
+Removed Pin From Net: NetName=GND Pin=U402-4
+Removed Pin From Net: NetName=NetR568_2 Pin=U402-6
+Removed Pin From Net: NetName=NetR544_2 Pin=U402-7
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U402-9
+Removed Pin From Net: NetName=SOLE7_OUT1 Pin=U402-10
+Removed Pin From Net: NetName=SOLE7_OUT2 Pin=U402-11
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U402-12
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U402-13
+Removed Pin From Net: NetName=SOLE8_OUT2 Pin=U402-14
+Removed Pin From Net: NetName=SOLE8_OUT1 Pin=U402-15
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U402-16
+Removed Pin From Net: NetName=GND Pin=U402-19
+Removed Pin From Net: NetName=NetR571_2 Pin=U402-21
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U402-25
+Removed Pin From Net: NetName=SOLE6_OUT2 Pin=U402-26
+Removed Pin From Net: NetName=SOLE6_OUT1 Pin=U402-27
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U402-28
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U402-29
+Removed Pin From Net: NetName=SOLE5_OUT2 Pin=U402-30
+Removed Pin From Net: NetName=SOLE5_OUT1 Pin=U402-31
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U402-32
+Removed Pin From Net: NetName=GND Pin=U402-33
+Removed Pin From Net: NetName=NetR499_2 Pin=U403-1
+Removed Pin From Net: NetName=NetR567_2 Pin=U403-3
+Removed Pin From Net: NetName=GND Pin=U403-4
+Removed Pin From Net: NetName=NetR569_2 Pin=U403-5
+Removed Pin From Net: NetName=NetR570_2 Pin=U403-6
+Removed Pin From Net: NetName=NetR549_2 Pin=U403-7
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U403-9
+Removed Pin From Net: NetName=SOLE19_OUT1 Pin=U403-10
+Removed Pin From Net: NetName=SOLE19_OUT2 Pin=U403-11
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U403-12
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U403-13
+Removed Pin From Net: NetName=SOLE20_OUT2 Pin=U403-14
+Removed Pin From Net: NetName=SOLE20_OUT1 Pin=U403-15
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U403-16
+Removed Pin From Net: NetName=GND Pin=U403-19
+Removed Pin From Net: NetName=NetR573_2 Pin=U403-21
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U403-25
+Removed Pin From Net: NetName=SOLE18_OUT2 Pin=U403-26
+Removed Pin From Net: NetName=SOLE18_OUT1 Pin=U403-27
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U403-28
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U403-29
+Removed Pin From Net: NetName=SOLE17_OUT2 Pin=U403-30
+Removed Pin From Net: NetName=SOLE17_OUT1 Pin=U403-31
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U403-32
+Removed Pin From Net: NetName=GND Pin=U403-33
+Removed Pin From Net: NetName=GND Pin=U404-4
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U404-9
+Removed Pin From Net: NetName=SOLE11_OUT1 Pin=U404-10
+Removed Pin From Net: NetName=SOLE11_OUT2 Pin=U404-11
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U404-12
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U404-13
+Removed Pin From Net: NetName=SOLE12_OUT2 Pin=U404-14
+Removed Pin From Net: NetName=SOLE12_OUT1 Pin=U404-15
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U404-16
+Removed Pin From Net: NetName=GND Pin=U404-19
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U404-25
+Removed Pin From Net: NetName=SOLE10_OUT2 Pin=U404-26
+Removed Pin From Net: NetName=SOLE10_OUT1 Pin=U404-27
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U404-28
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U404-29
+Removed Pin From Net: NetName=SOLE9_OUT2 Pin=U404-30
+Removed Pin From Net: NetName=SOLE9_OUT1 Pin=U404-31
+Removed Pin From Net: NetName=3V/5V_Solenoid Pin=U404-32
+Removed Pin From Net: NetName=GND Pin=U404-33
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C400
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C401
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C402
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C403
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C404
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C405
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C406
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C407
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C408
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C409
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C410
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C411
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C412
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C413
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C414
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C415
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C416
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C417
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C418
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C419
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C420
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C421
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C422
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C423
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=C424
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=R625
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=R626
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=R627
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=R628
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=R629
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=R630
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=R631
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=R632
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=R633
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=R634
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=R635
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=R636
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=U400
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=U401
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=U402
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=U403
+Removed Member From Class: ClassName=19_SOLENOID_HB_1 Member=U404
+Change Component Comment : Designator=R573 Old Comment=10k New Comment=20k
+Change Component Comment : Designator=R476 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R477 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R491 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R492 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R498 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R500 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R495 Old Comment=20k New Comment=22R
+Change Component Comment : Designator=R496 Old Comment=20k New Comment=22R
+Change Component Comment : Designator=R480 Old Comment=22R New Comment=10k
+Change Component Comment : Designator=R481 Old Comment=22R New Comment=10k
+Change Component Comment : Designator=R482 Old Comment=22R New Comment=10k
+Change Component Comment : Designator=R483 Old Comment=22R New Comment=10k
+Change Component Comment : Designator=R549 Old Comment=22R New Comment=10k
+Change Component Comment : Designator=R564 Old Comment=22R New Comment=10k
+Change Component Comment : Designator=R478 Old Comment=22R New Comment=20k
+Change Component Comment : Designator=R479 Old Comment=22R New Comment=20k
+Change Component Comment : Designator=R544 Old Comment=22R New Comment=20k
+Change Component Comment : Designator=R548 Old Comment=22R New Comment=20k
+Added Component: Designator=C208(CAP_C_1005X50_L)
+Added Component: Designator=C214(CAP_C_1005X50_L)
+Added Component: Designator=C216(CAP_C_1005X50_L)
+Added Component: Designator=C229(CAP_C_1005X50_L)
+Added Component: Designator=C230(CAP_C_1005X50_L)
+Added Component: Designator=C231(CAP_C_1005X50_L)
+Added Component: Designator=C271(CAP_C_1005X50_L)
+Added Component: Designator=C346(CAP_C_1005X50_L)
+Added Component: Designator=C347(CAP_C_1005X50_L)
+Added Component: Designator=C348(CAP_C_1005X50_L)
+Added Component: Designator=C349(CAP_C_1005X50_L)
+Added Component: Designator=C351(CAP_C_1005X50_L)
+Added Component: Designator=C352(CAP_C_1005X50_L)
+Added Component: Designator=C367(CAP_C_1005X50_L)
+Added Component: Designator=C368(CAP_C_1005X50_L)
+Added Component: Designator=C369(CAP_C_1005X50_L)
+Added Component: Designator=C370(CAP_C_1005X50_L)
+Added Component: Designator=C378(CAP_C_1005X50_L)
+Added Component: Designator=C379(CAP_C_1005X50_L)
+Added Component: Designator=C380(CAP_C_1005X50_L)
+Added Component: Designator=C381(CAP_C_1005X50_L)
+Added Component: Designator=C382(CAP_C_1005X50_L)
+Added Component: Designator=C383(CAP_C_1005X50_L)
+Added Component: Designator=C384(CAP_C_1005X50_L)
+Added Component: Designator=C385(CAP_C_1005X50_L)
+Added Component: Designator=R318(RES_C_1005x30_L)
+Added Component: Designator=R319(RES_C_1005x30_L)
+Added Component: Designator=R320(RES_C_1005x30_L)
+Added Component: Designator=R343(RES_C_1005x30_L)
+Added Component: Designator=R345(RES_C_1005x30_L)
+Added Component: Designator=R366(RES_C_1005x30_L)
+Added Component: Designator=R369(RES_C_1005x30_L)
+Added Component: Designator=R372(RES_C_1005x30_L)
+Added Component: Designator=R374(RES_C_1005x30_L)
+Added Component: Designator=R376(RES_C_1005x30_L)
+Added Component: Designator=R393(RES_C_1005x30_L)
+Added Component: Designator=R394(RES_C_1005x30_L)
+Added Component: Designator=U50(21-0140AK_T3255_8C_MXM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX22200ETJ+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U58(21-0140AK_T3255_8C_MXM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX22200ETJ+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U59(21-0140AK_T3255_8C_MXM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX22200ETJ+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U60(21-0140AK_T3255_8C_MXM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX22200ETJ+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U61(21-0140AK_T3255_8C_MXM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX22200ETJ+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C208-1
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=C208-2
+Added Pin To Net: NetName=GND Pin=C214-1
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=C214-2
+Added Pin To Net: NetName=GND Pin=C216-1
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=C216-2
+Added Pin To Net: NetName=GND Pin=C229-1
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=C229-2
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=C230-2
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=C231-2
+Added Pin To Net: NetName=GND Pin=C347-1
+Added Pin To Net: NetName=GND Pin=C348-1
+Added Pin To Net: NetName=GND Pin=C349-1
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=C349-2
+Added Pin To Net: NetName=GND Pin=C351-1
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=C351-2
+Added Pin To Net: NetName=GND Pin=C352-1
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=C352-2
+Added Pin To Net: NetName=GND Pin=C367-1
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=C367-2
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=C368-2
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=C369-2
+Added Pin To Net: NetName=GND Pin=C379-1
+Added Pin To Net: NetName=GND Pin=C380-1
+Added Pin To Net: NetName=GND Pin=C381-1
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=C381-2
+Added Pin To Net: NetName=GND Pin=C382-1
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=C382-2
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=C383-2
+Added Pin To Net: NetName=GND Pin=C385-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R318-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R319-1
+Added Pin To Net: NetName=MCU_SPI0_MISO Pin=R319-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R320-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R343-1
+Added Pin To Net: NetName=MCU_SPI0_MISO Pin=R343-2
+Added Pin To Net: NetName=MCU_SPI0_MISO Pin=R345-1
+Added Pin To Net: NetName=MCU_SPI0_MISO Pin=R366-1
+Added Pin To Net: NetName=MCU_SPI0_nCS_SOLE_A Pin=R369-1
+Added Pin To Net: NetName=MCU_SPI0_nCS_SOLE_D Pin=R372-1
+Added Pin To Net: NetName=MCU_SPI0_SCK Pin=R374-1
+Added Pin To Net: NetName=MCU_SPI0_SCK Pin=R376-1
+Added Pin To Net: NetName=MCU_SPI0_MOSI Pin=R393-1
+Added Pin To Net: NetName=MCU_SPI0_MOSI Pin=R394-1
+Added Pin To Net: NetName=MCU_SPI0_CMD_SOLE_A Pin=R476-1
+Added Pin To Net: NetName=MCU_SPI0_CMD_SOLE_D Pin=R477-1
+Added Pin To Net: NetName=GND Pin=R478-1
+Added Pin To Net: NetName=GND Pin=R479-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R480-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R481-1
+Added Pin To Net: NetName=MCU_SPI0_MISO Pin=R481-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R482-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R483-1
+Added Pin To Net: NetName=MCU_SPI0_MISO Pin=R483-2
+Added Pin To Net: NetName=MCU_SPI0_MISO Pin=R484-1
+Added Pin To Net: NetName=MCU_SPI0_nCS_SOLE_B Pin=R488-1
+Added Pin To Net: NetName=MCU_SPI0_MISO Pin=R491-1
+Added Pin To Net: NetName=MCU_SPI0_SCK Pin=R492-1
+Added Pin To Net: NetName=MCU_SPI0_nCS_SOLE_E Pin=R493-1
+Added Pin To Net: NetName=MCU_SPI0_MOSI Pin=R494-1
+Added Pin To Net: NetName=MCU_SPI0_SCK Pin=R495-1
+Added Pin To Net: NetName=MCU_SPI0_MOSI Pin=R496-1
+Added Pin To Net: NetName=MCU_SPI0_CMD_SOLE_B Pin=R498-1
+Added Pin To Net: NetName=MCU_SPI0_CMD_SOLE_E Pin=R500-1
+Added Pin To Net: NetName=GND Pin=R544-1
+Added Pin To Net: NetName=GND Pin=R548-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R549-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R564-1
+Added Pin To Net: NetName=MCU_SPI0_MISO Pin=R564-2
+Added Pin To Net: NetName=MCU_SPI0_MISO Pin=R567-1
+Added Pin To Net: NetName=MCU_SPI0_nCS_SOLE_C Pin=R568-1
+Added Pin To Net: NetName=MCU_SPI0_CMD_SOLE_C Pin=R572-1
+Added Pin To Net: NetName=GND Pin=R573-1
+Added Pin To Net: NetName=NetR476_2 Pin=U50-2
+Added Pin To Net: NetName=GND Pin=U50-4
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U50-9
+Added Pin To Net: NetName=SOLE3_OUT1 Pin=U50-10
+Added Pin To Net: NetName=SOLE3_OUT2 Pin=U50-11
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U50-12
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U50-13
+Added Pin To Net: NetName=SOLE4_OUT2 Pin=U50-14
+Added Pin To Net: NetName=SOLE4_OUT1 Pin=U50-15
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U50-16
+Added Pin To Net: NetName=NetR478_2 Pin=U50-18
+Added Pin To Net: NetName=GND Pin=U50-19
+Added Pin To Net: NetName=NetR474_2 Pin=U50-21
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U50-25
+Added Pin To Net: NetName=SOLE2_OUT2 Pin=U50-26
+Added Pin To Net: NetName=SOLE2_OUT1 Pin=U50-27
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U50-28
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U50-29
+Added Pin To Net: NetName=SOLE1_OUT2 Pin=U50-30
+Added Pin To Net: NetName=SOLE1_OUT1 Pin=U50-31
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U50-32
+Added Pin To Net: NetName=GND Pin=U50-33
+Added Pin To Net: NetName=GND Pin=U58-4
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U58-9
+Added Pin To Net: NetName=SOLE15_OUT1 Pin=U58-10
+Added Pin To Net: NetName=SOLE15_OUT2 Pin=U58-11
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U58-12
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U58-13
+Added Pin To Net: NetName=SOLE16_OUT2 Pin=U58-14
+Added Pin To Net: NetName=SOLE16_OUT1 Pin=U58-15
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U58-16
+Added Pin To Net: NetName=NetR479_2 Pin=U58-18
+Added Pin To Net: NetName=GND Pin=U58-19
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U58-25
+Added Pin To Net: NetName=SOLE14_OUT2 Pin=U58-26
+Added Pin To Net: NetName=SOLE14_OUT1 Pin=U58-27
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U58-28
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U58-29
+Added Pin To Net: NetName=SOLE13_OUT2 Pin=U58-30
+Added Pin To Net: NetName=SOLE13_OUT1 Pin=U58-31
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U58-32
+Added Pin To Net: NetName=GND Pin=U58-33
+Added Pin To Net: NetName=NetR480_2 Pin=U59-1
+Added Pin To Net: NetName=NetR488_2 Pin=U59-3
+Added Pin To Net: NetName=GND Pin=U59-4
+Added Pin To Net: NetName=NetR492_2 Pin=U59-5
+Added Pin To Net: NetName=NetR494_2 Pin=U59-6
+Added Pin To Net: NetName=NetR484_2 Pin=U59-7
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U59-9
+Added Pin To Net: NetName=SOLE7_OUT1 Pin=U59-10
+Added Pin To Net: NetName=SOLE7_OUT2 Pin=U59-11
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U59-12
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U59-13
+Added Pin To Net: NetName=SOLE8_OUT2 Pin=U59-14
+Added Pin To Net: NetName=SOLE8_OUT1 Pin=U59-15
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U59-16
+Added Pin To Net: NetName=NetR544_2 Pin=U59-18
+Added Pin To Net: NetName=GND Pin=U59-19
+Added Pin To Net: NetName=NetR497_2 Pin=U59-21
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U59-25
+Added Pin To Net: NetName=SOLE6_OUT2 Pin=U59-26
+Added Pin To Net: NetName=SOLE6_OUT1 Pin=U59-27
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U59-28
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U59-29
+Added Pin To Net: NetName=SOLE5_OUT2 Pin=U59-30
+Added Pin To Net: NetName=SOLE5_OUT1 Pin=U59-31
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U59-32
+Added Pin To Net: NetName=GND Pin=U59-33
+Added Pin To Net: NetName=NetR482_2 Pin=U60-1
+Added Pin To Net: NetName=NetR493_2 Pin=U60-3
+Added Pin To Net: NetName=GND Pin=U60-4
+Added Pin To Net: NetName=NetR495_2 Pin=U60-5
+Added Pin To Net: NetName=NetR496_2 Pin=U60-6
+Added Pin To Net: NetName=NetR491_2 Pin=U60-7
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U60-9
+Added Pin To Net: NetName=SOLE19_OUT1 Pin=U60-10
+Added Pin To Net: NetName=SOLE19_OUT2 Pin=U60-11
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U60-12
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U60-13
+Added Pin To Net: NetName=SOLE20_OUT2 Pin=U60-14
+Added Pin To Net: NetName=SOLE20_OUT1 Pin=U60-15
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U60-16
+Added Pin To Net: NetName=NetR548_2 Pin=U60-18
+Added Pin To Net: NetName=GND Pin=U60-19
+Added Pin To Net: NetName=NetR499_2 Pin=U60-21
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U60-25
+Added Pin To Net: NetName=SOLE18_OUT2 Pin=U60-26
+Added Pin To Net: NetName=SOLE18_OUT1 Pin=U60-27
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U60-28
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U60-29
+Added Pin To Net: NetName=SOLE17_OUT2 Pin=U60-30
+Added Pin To Net: NetName=SOLE17_OUT1 Pin=U60-31
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U60-32
+Added Pin To Net: NetName=GND Pin=U60-33
+Added Pin To Net: NetName=NetR549_2 Pin=U61-1
+Added Pin To Net: NetName=NetR572_2 Pin=U61-2
+Added Pin To Net: NetName=NetR568_2 Pin=U61-3
+Added Pin To Net: NetName=GND Pin=U61-4
+Added Pin To Net: NetName=NetR569_2 Pin=U61-5
+Added Pin To Net: NetName=NetR570_2 Pin=U61-6
+Added Pin To Net: NetName=NetR567_2 Pin=U61-7
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U61-9
+Added Pin To Net: NetName=SOLE11_OUT1 Pin=U61-10
+Added Pin To Net: NetName=SOLE11_OUT2 Pin=U61-11
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U61-12
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U61-13
+Added Pin To Net: NetName=SOLE12_OUT2 Pin=U61-14
+Added Pin To Net: NetName=SOLE12_OUT1 Pin=U61-15
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U61-16
+Added Pin To Net: NetName=NetR573_2 Pin=U61-18
+Added Pin To Net: NetName=GND Pin=U61-19
+Added Pin To Net: NetName=NetR571_2 Pin=U61-21
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U61-25
+Added Pin To Net: NetName=SOLE10_OUT2 Pin=U61-26
+Added Pin To Net: NetName=SOLE10_OUT1 Pin=U61-27
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U61-28
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U61-29
+Added Pin To Net: NetName=SOLE9_OUT2 Pin=U61-30
+Added Pin To Net: NetName=SOLE9_OUT1 Pin=U61-31
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U61-32
+Added Pin To Net: NetName=GND Pin=U61-33
+Added Pin To Net: NetName=NetC230_1 Pin=C230-1
+Added Pin To Net: NetName=NetC230_1 Pin=U50-24
+Added Net: Name=NetC230_1
+Added Pin To Net: NetName=NetC231_1 Pin=C231-1
+Added Pin To Net: NetName=NetC231_1 Pin=U58-24
+Added Net: Name=NetC231_1
+Added Pin To Net: NetName=NetC271_1 Pin=C271-1
+Added Pin To Net: NetName=NetC271_1 Pin=U50-22
+Added Net: Name=NetC271_1
+Added Pin To Net: NetName=NetC271_2 Pin=C271-2
+Added Pin To Net: NetName=NetC271_2 Pin=U50-23
+Added Net: Name=NetC271_2
+Added Pin To Net: NetName=NetC346_1 Pin=C346-1
+Added Pin To Net: NetName=NetC346_1 Pin=U58-22
+Added Net: Name=NetC346_1
+Added Pin To Net: NetName=NetC346_2 Pin=C346-2
+Added Pin To Net: NetName=NetC346_2 Pin=U58-23
+Added Net: Name=NetC346_2
+Added Pin To Net: NetName=NetC347_2 Pin=C347-2
+Added Pin To Net: NetName=NetC347_2 Pin=U50-20
+Added Net: Name=NetC347_2
+Added Pin To Net: NetName=NetC348_2 Pin=C348-2
+Added Pin To Net: NetName=NetC348_2 Pin=U58-20
+Added Net: Name=NetC348_2
+Added Pin To Net: NetName=NetC368_1 Pin=C368-1
+Added Pin To Net: NetName=NetC368_1 Pin=U59-24
+Added Net: Name=NetC368_1
+Added Pin To Net: NetName=NetC369_1 Pin=C369-1
+Added Pin To Net: NetName=NetC369_1 Pin=U60-24
+Added Net: Name=NetC369_1
+Added Pin To Net: NetName=NetC370_1 Pin=C370-1
+Added Pin To Net: NetName=NetC370_1 Pin=U59-22
+Added Net: Name=NetC370_1
+Added Pin To Net: NetName=NetC370_2 Pin=C370-2
+Added Pin To Net: NetName=NetC370_2 Pin=U59-23
+Added Net: Name=NetC370_2
+Added Pin To Net: NetName=NetC378_1 Pin=C378-1
+Added Pin To Net: NetName=NetC378_1 Pin=U60-22
+Added Net: Name=NetC378_1
+Added Pin To Net: NetName=NetC378_2 Pin=C378-2
+Added Pin To Net: NetName=NetC378_2 Pin=U60-23
+Added Net: Name=NetC378_2
+Added Pin To Net: NetName=NetC379_2 Pin=C379-2
+Added Pin To Net: NetName=NetC379_2 Pin=U59-20
+Added Net: Name=NetC379_2
+Added Pin To Net: NetName=NetC380_2 Pin=C380-2
+Added Pin To Net: NetName=NetC380_2 Pin=U60-20
+Added Net: Name=NetC380_2
+Added Pin To Net: NetName=NetC383_1 Pin=C383-1
+Added Pin To Net: NetName=NetC383_1 Pin=U61-24
+Added Net: Name=NetC383_1
+Added Pin To Net: NetName=NetC384_1 Pin=C384-1
+Added Pin To Net: NetName=NetC384_1 Pin=U61-22
+Added Net: Name=NetC384_1
+Added Pin To Net: NetName=NetC384_2 Pin=C384-2
+Added Pin To Net: NetName=NetC384_2 Pin=U61-23
+Added Net: Name=NetC384_2
+Added Pin To Net: NetName=NetC385_2 Pin=C385-2
+Added Pin To Net: NetName=NetC385_2 Pin=U61-20
+Added Net: Name=NetC385_2
+Added Pin To Net: NetName=NetR318_2 Pin=R318-2
+Added Pin To Net: NetName=NetR318_2 Pin=U50-1
+Added Net: Name=NetR318_2
+Added Pin To Net: NetName=NetR320_2 Pin=R320-2
+Added Pin To Net: NetName=NetR320_2 Pin=U58-1
+Added Net: Name=NetR320_2
+Added Pin To Net: NetName=NetR345_2 Pin=R345-2
+Added Pin To Net: NetName=NetR345_2 Pin=U50-7
+Added Net: Name=NetR345_2
+Added Pin To Net: NetName=NetR366_2 Pin=R366-2
+Added Pin To Net: NetName=NetR366_2 Pin=U58-7
+Added Net: Name=NetR366_2
+Added Pin To Net: NetName=NetR369_2 Pin=R369-2
+Added Pin To Net: NetName=NetR369_2 Pin=U50-3
+Added Net: Name=NetR369_2
+Added Pin To Net: NetName=NetR372_2 Pin=R372-2
+Added Pin To Net: NetName=NetR372_2 Pin=U58-3
+Added Net: Name=NetR372_2
+Added Pin To Net: NetName=NetR374_2 Pin=R374-2
+Added Pin To Net: NetName=NetR374_2 Pin=U50-5
+Added Net: Name=NetR374_2
+Added Pin To Net: NetName=NetR376_2 Pin=R376-2
+Added Pin To Net: NetName=NetR376_2 Pin=U58-5
+Added Net: Name=NetR376_2
+Added Pin To Net: NetName=NetR393_2 Pin=R393-2
+Added Pin To Net: NetName=NetR393_2 Pin=U50-6
+Added Net: Name=NetR393_2
+Added Pin To Net: NetName=NetR394_2 Pin=R394-2
+Added Pin To Net: NetName=NetR394_2 Pin=U58-6
+Added Net: Name=NetR394_2
+Added Pin To Net: NetName=NetR475_2 Pin=R475-2
+Added Pin To Net: NetName=NetR475_2 Pin=U58-21
+Added Net: Name=NetR475_2
+Added Pin To Net: NetName=NetR477_2 Pin=R477-2
+Added Pin To Net: NetName=NetR477_2 Pin=U58-2
+Added Net: Name=NetR477_2
+Added Pin To Net: NetName=NetR498_2 Pin=R498-2
+Added Pin To Net: NetName=NetR498_2 Pin=U59-2
+Added Net: Name=NetR498_2
+Added Pin To Net: NetName=NetR500_2 Pin=R500-2
+Added Pin To Net: NetName=NetR500_2 Pin=U60-2
+Added Net: Name=NetR500_2
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C208 4.7uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C214 0.1uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C216 4.7uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C229 0.1uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C230 1uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C231 1uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C271 22nF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C346 22nF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C347 2.2uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C348 2.2uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C349 4.7uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C351 0.1uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C352 4.7uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C367 0.1uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C368 1uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C369 1uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C370 22nF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C378 22nF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C379 2.2uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C380 2.2uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C381 4.7uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C382 0.1uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C383 1uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C384 22nF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C385 2.2uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component R318 10k
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component R319 10k
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component R320 10k
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component R343 10k
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component R345 22R
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component R366 22R
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component R369 22R
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component R372 22R
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component R374 22R
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component R376 22R
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component R393 22R
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component R394 22R
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component U50 MAX22200ETJ+T
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component U58 MAX22200ETJ+T
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component U59 MAX22200ETJ+T
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component U60 MAX22200ETJ+T
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component U61 MAX22200ETJ+T

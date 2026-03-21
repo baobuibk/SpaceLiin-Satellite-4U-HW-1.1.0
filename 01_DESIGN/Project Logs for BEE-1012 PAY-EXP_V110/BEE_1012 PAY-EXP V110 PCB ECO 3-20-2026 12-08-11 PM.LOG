@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=08_SAMA7G54-PIO Member=R618
+Change Component Description : Designator=BT1 Old Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel New Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel | Keystone Electronics 3035
+Added Component: Designator=R624(RES_C_0603X30)
+Added Pin To Net: NetName=PA02 Pin=R624-1
+Added Pin To Net: NetName=POW_ONOFF_AI Pin=R624-2
+Added Pin To Net: NetName=eFUSE_ILIM_12V_AI Pin=U10-9
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R623 22R
+Added Member To Class: ClassName=11_MCU Member=Component R624 22R

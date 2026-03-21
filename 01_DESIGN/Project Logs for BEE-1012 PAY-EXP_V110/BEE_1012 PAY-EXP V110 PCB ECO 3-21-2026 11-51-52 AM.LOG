@@ -1,0 +1,44 @@
+Added Component: Designator=U21(SOT95P280X145-6N)
+Add component (AddParameter): Name = "CLABCONF0"; Value = "#NAME?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "132D42200S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Footprint"; Value = "SOT23-6L"; VariantName = "[No Variations]"
+Added Component: Designator=U22(SOT95P280X145-6N)
+Add component (AddParameter): Name = "CLABCONF0"; Value = "#NAME?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "132D42200S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Footprint"; Value = "SOT23-6L"; VariantName = "[No Variations]"
+Added Component: Designator=VR1(VREG_LM1117MP-3.3/NOPB)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM1117MP-3.3/NOPB/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM1117MP-3.3/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-223-4 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM1117MP-3.3/NOPB/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VR2(VREG_LM1117MP-3.3/NOPB)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM1117MP-3.3/NOPB/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM1117MP-3.3/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-223-4 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM1117MP-3.3/NOPB/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U21-2
+Added Pin To Net: NetName=SD2_CLK Pin=U21-3
+Added Pin To Net: NetName=SD2_DATA0 Pin=U21-4
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=U21-5
+Added Pin To Net: NetName=SD2_DATA1 Pin=U21-6
+Added Pin To Net: NetName=SD2_CMD Pin=U22-1
+Added Pin To Net: NetName=GND Pin=U22-2
+Added Pin To Net: NetName=SD2_DATA2 Pin=U22-4
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=U22-5
+Added Pin To Net: NetName=SD2_DATA3 Pin=U22-6
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=3.3V_MCU Pin=VR1-2
+Added Pin To Net: NetName=5V_MCU Pin=VR1-3
+Added Pin To Net: NetName=3.3V_MCU Pin=VR1-4
+Added Pin To Net: NetName=GND Pin=VR2-1
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=VR2-2
+Added Pin To Net: NetName=5V_SAMA7 Pin=VR2-3
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=VR2-4
+Added Member To Class: ClassName=08_SOM_USB_CARD Member=Component U21 IP4220CZ6
+Added Member To Class: ClassName=08_SOM_USB_CARD Member=Component U22 IP4220CZ6
+Added Member To Class: ClassName=06_POWER_1 Member=Component VR1 LM1117MP-3.3/NOPB
+Added Member To Class: ClassName=06_POWER_2 Member=Component VR2 LM1117MP-3.3/NOPB

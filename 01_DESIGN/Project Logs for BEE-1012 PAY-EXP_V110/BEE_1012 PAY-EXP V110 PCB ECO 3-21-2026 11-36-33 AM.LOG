@@ -1,0 +1,337 @@
+Added Component: Designator=L2(L-SMD-M-3.5x3.5x2mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/78477010.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Baojun Chen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "Nov.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "1.0 µH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "78477010"; VariantName = "[No Variations]"
+Added Component: Designator=L3(L-SMD-M-3.5x3.5x2mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/78477010.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Baojun Chen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "Nov.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "1.0 µH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "78477010"; VariantName = "[No Variations]"
+Added Component: Designator=L4(L-SMD-M-3.5x3.5x2mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/78477010.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Baojun Chen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "Nov.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "1.0 µH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "78477010"; VariantName = "[No Variations]"
+Added Component: Designator=L5(L-SMD-M-3.5x3.5x2mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/78477010.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Baojun Chen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "Nov.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "1.0 µH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "78477010"; VariantName = "[No Variations]"
+Add component: Footprint Not Found SOT95P240X120-3N
+Add component: Footprint Not Found SOT95P240X120-3N
+Add component: Footprint Not Found SOT95P240X120-3N
+Add component: Footprint Not Found SOT95P240X120-3N
+Add component: Footprint Not Found SOT95P240X120-3N
+Add component: Footprint Not Found SOT95P240X120-3N
+Add component: Footprint Not Found SOT95P240X120-3N
+Add component: Footprint Not Found SOT95P240X120-3N
+Add component: Footprint Not Found SOT95P240X120-3N
+Add component: Footprint Not Found SOT95P240X120-3N
+Add component: Footprint Not Found SOT95P240X120-3N
+Add component: Footprint Not Found SOT95P240X120-3N
+Add component: Footprint Not Found TPS5430DDAR_V3
+Added Component: Designator=U6(QFN18)
+Added Component: Designator=U7(QFN18)
+Added Component: Designator=U8(QFN18)
+Added Component: Designator=U9(QFN18)
+Added Component: Designator=U16(MP_HIGHDRIVER4)
+Added Component: Designator=U17(TSOP8)
+Added Component: Designator=U18(TSOP8)
+Added Component: Designator=U19(TSOP8)
+Added Component: Designator=U20(TSOP8)
+Add component: Footprint Not Found SOT95P280X145-6N
+Add component: Footprint Not Found SOT95P280X145-6N
+Add component: Footprint Not Found TPS5430DDAR_V3
+Added Component: Designator=U45(TSOP8)
+Added Component: Designator=U46(TSOP8)
+Add component: Footprint Not Found VREG_LM1117MP-3.3/NOPB
+Add component: Footprint Not Found VREG_LM1117MP-3.3/NOPB
+Added Pin To Net: NetName=NetC59_1 Pin=L2-1
+Added Pin To Net: NetName=TEC_OUT_B_1 Pin=L2-2
+Added Pin To Net: NetName=NetC60_1 Pin=L3-1
+Added Pin To Net: NetName=TEC_OUT_B_3 Pin=L3-2
+Added Pin To Net: NetName=NetC81_1 Pin=L4-1
+Added Pin To Net: NetName=TEC_OUT_B_2 Pin=L4-2
+Added Pin To Net: NetName=NetC82_1 Pin=L5-1
+Added Pin To Net: NetName=TEC_OUT_B_4 Pin=L5-2
+Add Pin To Net: Unknown Pin: Pin Q3-1
+Add Pin To Net: Unknown Pin: Pin Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Add Pin To Net: Unknown Pin: Pin Q4-1
+Add Pin To Net: Unknown Pin: Pin Q4-2
+Add Pin To Net: Unknown Pin: Pin Q4-3
+Add Pin To Net: Unknown Pin: Pin Q5-1
+Add Pin To Net: Unknown Pin: Pin Q5-2
+Add Pin To Net: Unknown Pin: Pin Q5-3
+Add Pin To Net: Unknown Pin: Pin Q6-1
+Add Pin To Net: Unknown Pin: Pin Q6-2
+Add Pin To Net: Unknown Pin: Pin Q6-3
+Add Pin To Net: Unknown Pin: Pin Q7-1
+Add Pin To Net: Unknown Pin: Pin Q7-2
+Add Pin To Net: Unknown Pin: Pin Q7-3
+Add Pin To Net: Unknown Pin: Pin Q8-1
+Add Pin To Net: Unknown Pin: Pin Q8-2
+Add Pin To Net: Unknown Pin: Pin Q8-3
+Add Pin To Net: Unknown Pin: Pin Q9-1
+Add Pin To Net: Unknown Pin: Pin Q9-2
+Add Pin To Net: Unknown Pin: Pin Q9-3
+Add Pin To Net: Unknown Pin: Pin Q10-1
+Add Pin To Net: Unknown Pin: Pin Q10-2
+Add Pin To Net: Unknown Pin: Pin Q10-3
+Add Pin To Net: Unknown Pin: Pin Q11-1
+Add Pin To Net: Unknown Pin: Pin Q11-2
+Add Pin To Net: Unknown Pin: Pin Q11-3
+Add Pin To Net: Unknown Pin: Pin Q12-1
+Add Pin To Net: Unknown Pin: Pin Q12-2
+Add Pin To Net: Unknown Pin: Pin Q12-3
+Add Pin To Net: Unknown Pin: Pin Q13-1
+Add Pin To Net: Unknown Pin: Pin Q13-2
+Add Pin To Net: Unknown Pin: Pin Q13-3
+Add Pin To Net: Unknown Pin: Pin Q14-1
+Add Pin To Net: Unknown Pin: Pin Q14-2
+Add Pin To Net: Unknown Pin: Pin Q14-3
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=NetC63_2 Pin=U6-2
+Added Pin To Net: NetName=NetC59_2 Pin=U6-3
+Added Pin To Net: NetName=5V_TEC Pin=U6-4
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=NetC59_1 Pin=U6-6
+Added Pin To Net: NetName=NetC59_1 Pin=U6-7
+Added Pin To Net: NetName=TEC_OUT_A_1 Pin=U6-8
+Added Pin To Net: NetName=TEC_OUT_A_1 Pin=U6-9
+Added Pin To Net: NetName=GND Pin=U6-10
+Added Pin To Net: NetName=5V_TEC Pin=U6-11
+Added Pin To Net: NetName=TEC_OUT_B_1 Pin=U6-12
+Added Pin To Net: NetName=TEC_SWEN_1 Pin=U6-13
+Added Pin To Net: NetName=3.3V_MCU Pin=U6-14
+Added Pin To Net: NetName=TEC_nCS_1 Pin=U6-15
+Added Pin To Net: NetName=MCU_USART_SCK2 Pin=U6-16
+Added Pin To Net: NetName=MCU_USART_TXD2 Pin=U6-17
+Added Pin To Net: NetName=MCU_USART_RXD2 Pin=U6-18
+Added Pin To Net: NetName=GND Pin=U6-19
+Added Pin To Net: NetName=TEC_ADC_1 Pin=U6-20
+Added Pin To Net: NetName=GND Pin=U6-21
+Added Pin To Net: NetName=GND Pin=U6-22
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=NetC64_2 Pin=U7-2
+Added Pin To Net: NetName=NetC60_2 Pin=U7-3
+Added Pin To Net: NetName=5V_TEC Pin=U7-4
+Added Pin To Net: NetName=GND Pin=U7-5
+Added Pin To Net: NetName=NetC60_1 Pin=U7-6
+Added Pin To Net: NetName=NetC60_1 Pin=U7-7
+Added Pin To Net: NetName=TEC_OUT_A_3 Pin=U7-8
+Added Pin To Net: NetName=TEC_OUT_A_3 Pin=U7-9
+Added Pin To Net: NetName=GND Pin=U7-10
+Added Pin To Net: NetName=5V_TEC Pin=U7-11
+Added Pin To Net: NetName=TEC_OUT_B_3 Pin=U7-12
+Added Pin To Net: NetName=TEC_SWEN_3 Pin=U7-13
+Added Pin To Net: NetName=3.3V_MCU Pin=U7-14
+Added Pin To Net: NetName=TEC_nCS_3 Pin=U7-15
+Added Pin To Net: NetName=MCU_USART_SCK2 Pin=U7-16
+Added Pin To Net: NetName=MCU_USART_TXD2 Pin=U7-17
+Added Pin To Net: NetName=MCU_USART_RXD2 Pin=U7-18
+Added Pin To Net: NetName=GND Pin=U7-19
+Added Pin To Net: NetName=TEC_ADC_3 Pin=U7-20
+Added Pin To Net: NetName=GND Pin=U7-21
+Added Pin To Net: NetName=GND Pin=U7-22
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=NetC85_2 Pin=U8-2
+Added Pin To Net: NetName=NetC81_2 Pin=U8-3
+Added Pin To Net: NetName=5V_TEC Pin=U8-4
+Added Pin To Net: NetName=GND Pin=U8-5
+Added Pin To Net: NetName=NetC81_1 Pin=U8-6
+Added Pin To Net: NetName=NetC81_1 Pin=U8-7
+Added Pin To Net: NetName=TEC_OUT_A_2 Pin=U8-8
+Added Pin To Net: NetName=TEC_OUT_A_2 Pin=U8-9
+Added Pin To Net: NetName=GND Pin=U8-10
+Added Pin To Net: NetName=5V_TEC Pin=U8-11
+Added Pin To Net: NetName=TEC_OUT_B_2 Pin=U8-12
+Added Pin To Net: NetName=TEC_SWEN_2 Pin=U8-13
+Added Pin To Net: NetName=3.3V_MCU Pin=U8-14
+Added Pin To Net: NetName=TEC_nCS_2 Pin=U8-15
+Added Pin To Net: NetName=MCU_USART_SCK2 Pin=U8-16
+Added Pin To Net: NetName=MCU_USART_TXD2 Pin=U8-17
+Added Pin To Net: NetName=MCU_USART_RXD2 Pin=U8-18
+Added Pin To Net: NetName=GND Pin=U8-19
+Added Pin To Net: NetName=TEC_ADC_2 Pin=U8-20
+Added Pin To Net: NetName=GND Pin=U8-21
+Added Pin To Net: NetName=GND Pin=U8-22
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=NetC86_2 Pin=U9-2
+Added Pin To Net: NetName=NetC82_2 Pin=U9-3
+Added Pin To Net: NetName=5V_TEC Pin=U9-4
+Added Pin To Net: NetName=GND Pin=U9-5
+Added Pin To Net: NetName=NetC82_1 Pin=U9-6
+Added Pin To Net: NetName=NetC82_1 Pin=U9-7
+Added Pin To Net: NetName=TEC_OUT_A_4 Pin=U9-8
+Added Pin To Net: NetName=TEC_OUT_A_4 Pin=U9-9
+Added Pin To Net: NetName=GND Pin=U9-10
+Added Pin To Net: NetName=5V_TEC Pin=U9-11
+Added Pin To Net: NetName=TEC_OUT_B_4 Pin=U9-12
+Added Pin To Net: NetName=TEC_SWEN_4 Pin=U9-13
+Added Pin To Net: NetName=3.3V_MCU Pin=U9-14
+Added Pin To Net: NetName=TEC_nCS_4 Pin=U9-15
+Added Pin To Net: NetName=MCU_USART_SCK2 Pin=U9-16
+Added Pin To Net: NetName=MCU_USART_TXD2 Pin=U9-17
+Added Pin To Net: NetName=MCU_USART_RXD2 Pin=U9-18
+Added Pin To Net: NetName=GND Pin=U9-19
+Added Pin To Net: NetName=TEC_ADC_4 Pin=U9-20
+Added Pin To Net: NetName=GND Pin=U9-21
+Added Pin To Net: NetName=GND Pin=U9-22
+Added Pin To Net: NetName=GND Pin=U16-1
+Added Pin To Net: NetName=5V_HD4 Pin=U16-2
+Added Pin To Net: NetName=HD4_A0 Pin=U16-3
+Added Pin To Net: NetName=HD4_A1 Pin=U16-4
+Added Pin To Net: NetName=I2C_SDA Pin=U16-5
+Added Pin To Net: NetName=I2C_SCL Pin=U16-6
+Added Pin To Net: NetName=HD4_CH31- Pin=U16-7
+Added Pin To Net: NetName=HD4_CH31+ Pin=U16-8
+Added Pin To Net: NetName=HD4_CH32+ Pin=U16-9
+Added Pin To Net: NetName=HD4_CH32- Pin=U16-10
+Added Pin To Net: NetName=HD4_CH41- Pin=U16-11
+Added Pin To Net: NetName=HD4_CH41+ Pin=U16-12
+Added Pin To Net: NetName=HD4_CH42+ Pin=U16-13
+Added Pin To Net: NetName=HD4_CH42- Pin=U16-14
+Added Pin To Net: NetName=HD4_CH11- Pin=U16-15
+Added Pin To Net: NetName=HD4_CH11+ Pin=U16-16
+Added Pin To Net: NetName=HD4_CH12+ Pin=U16-17
+Added Pin To Net: NetName=HD4_CH12- Pin=U16-18
+Added Pin To Net: NetName=HD4_CH21- Pin=U16-19
+Added Pin To Net: NetName=HD4_CH21+ Pin=U16-20
+Added Pin To Net: NetName=HD4_CH22+ Pin=U16-21
+Added Pin To Net: NetName=HD4_CH22- Pin=U16-22
+Added Pin To Net: NetName=GND Pin=U16-27
+Added Pin To Net: NetName=5V_HD4 Pin=U16-28
+Added Pin To Net: NetName=3.3V_MCU Pin=U17-1
+Added Pin To Net: NetName=NetR22_2 Pin=U17-2
+Added Pin To Net: NetName=NetR40_2 Pin=U17-3
+Added Pin To Net: NetName=GND Pin=U17-4
+Added Pin To Net: NetName=MCU_HD4_I2C_EN Pin=U17-5
+Added Pin To Net: NetName=I2C_SDA Pin=U17-6
+Added Pin To Net: NetName=I2C_SCL Pin=U17-7
+Added Pin To Net: NetName=5V_HD4 Pin=U17-8
+Added Pin To Net: NetName=3.3V_MCU Pin=U18-1
+Added Pin To Net: NetName=MCU_I2C0_SCL Pin=U18-2
+Added Pin To Net: NetName=MCU_I2C0_SDA Pin=U18-3
+Added Pin To Net: NetName=GND Pin=U18-4
+Added Pin To Net: NetName=SENSOR1_EN Pin=U18-5
+Added Pin To Net: NetName=NetJ13_2 Pin=U18-6
+Added Pin To Net: NetName=NetJ13_5 Pin=U18-7
+Added Pin To Net: NetName=3.3V_MCU Pin=U18-8
+Added Pin To Net: NetName=3.3V_MCU Pin=U19-1
+Added Pin To Net: NetName=MCU_I2C0_SCL Pin=U19-2
+Added Pin To Net: NetName=MCU_I2C0_SDA Pin=U19-3
+Added Pin To Net: NetName=GND Pin=U19-4
+Added Pin To Net: NetName=SENSOR2_EN Pin=U19-5
+Added Pin To Net: NetName=NetJ14_2 Pin=U19-6
+Added Pin To Net: NetName=NetJ14_5 Pin=U19-7
+Added Pin To Net: NetName=3.3V_MCU Pin=U19-8
+Added Pin To Net: NetName=3.3V_MCU Pin=U20-1
+Added Pin To Net: NetName=MCU_I2C0_SCL Pin=U20-2
+Added Pin To Net: NetName=MCU_I2C0_SDA Pin=U20-3
+Added Pin To Net: NetName=GND Pin=U20-4
+Added Pin To Net: NetName=SENSOR5_EN Pin=U20-5
+Added Pin To Net: NetName=NetJ15_3 Pin=U20-6
+Added Pin To Net: NetName=NetJ15_2 Pin=U20-7
+Added Pin To Net: NetName=3.3V_MCU Pin=U20-8
+Add Pin To Net: Unknown Pin: Pin U21-2
+Add Pin To Net: Unknown Pin: Pin U21-3
+Add Pin To Net: Unknown Pin: Pin U21-4
+Add Pin To Net: Unknown Pin: Pin U21-5
+Add Pin To Net: Unknown Pin: Pin U21-6
+Add Pin To Net: Unknown Pin: Pin U22-1
+Add Pin To Net: Unknown Pin: Pin U22-2
+Add Pin To Net: Unknown Pin: Pin U22-4
+Add Pin To Net: Unknown Pin: Pin U22-5
+Add Pin To Net: Unknown Pin: Pin U22-6
+Add Pin To Net: Unknown Pin: Pin U35-1
+Add Pin To Net: Unknown Pin: Pin U35-4
+Add Pin To Net: Unknown Pin: Pin U35-5
+Add Pin To Net: Unknown Pin: Pin U35-6
+Add Pin To Net: Unknown Pin: Pin U35-7
+Add Pin To Net: Unknown Pin: Pin U35-8
+Add Pin To Net: Unknown Pin: Pin U35-9
+Added Pin To Net: NetName=3.3V_MCU Pin=U45-1
+Added Pin To Net: NetName=MCU_I2C0_SCL Pin=U45-2
+Added Pin To Net: NetName=MCU_I2C0_SDA Pin=U45-3
+Added Pin To Net: NetName=GND Pin=U45-4
+Added Pin To Net: NetName=SENSOR3_EN Pin=U45-5
+Added Pin To Net: NetName=NetJ27_2 Pin=U45-6
+Added Pin To Net: NetName=NetJ27_5 Pin=U45-7
+Added Pin To Net: NetName=3.3V_MCU Pin=U45-8
+Added Pin To Net: NetName=3.3V_MCU Pin=U46-1
+Added Pin To Net: NetName=MCU_I2C0_SCL Pin=U46-2
+Added Pin To Net: NetName=MCU_I2C0_SDA Pin=U46-3
+Added Pin To Net: NetName=GND Pin=U46-4
+Added Pin To Net: NetName=SENSOR4_EN Pin=U46-5
+Added Pin To Net: NetName=NetJ28_2 Pin=U46-6
+Added Pin To Net: NetName=NetJ28_5 Pin=U46-7
+Added Pin To Net: NetName=3.3V_MCU Pin=U46-8
+Add Pin To Net: Unknown Pin: Pin VR1-1
+Add Pin To Net: Unknown Pin: Pin VR1-2
+Add Pin To Net: Unknown Pin: Pin VR1-3
+Add Pin To Net: Unknown Pin: Pin VR1-4
+Add Pin To Net: Unknown Pin: Pin VR2-1
+Add Pin To Net: Unknown Pin: Pin VR2-2
+Add Pin To Net: Unknown Pin: Pin VR2-3
+Add Pin To Net: Unknown Pin: Pin VR2-4
+Added Member To Class: ClassName=16_TEC Member=Component L2 1uH
+Added Member To Class: ClassName=16_TEC Member=Component L3 1uH
+Added Member To Class: ClassName=16_TEC Member=Component L4 1uH
+Added Member To Class: ClassName=16_TEC Member=Component L5 1uH
+Add Class Member: Failed to add class member : Component Q3 AO3400A
+Add Class Member: Failed to add class member : Component Q4 AO3400A
+Add Class Member: Failed to add class member : Component Q5 AO3400A
+Add Class Member: Failed to add class member : Component Q6 AO3400A
+Add Class Member: Failed to add class member : Component Q7 AO3400A
+Add Class Member: Failed to add class member : Component Q8 AO3400A
+Add Class Member: Failed to add class member : Component Q9 AO3400A
+Add Class Member: Failed to add class member : Component Q10 AO3400A
+Add Class Member: Failed to add class member : Component Q11 AO3400A
+Add Class Member: Failed to add class member : Component Q12 AO3400A
+Add Class Member: Failed to add class member : Component Q13 AO3400A
+Add Class Member: Failed to add class member : Component Q14 AO3400A
+Add Class Member: Failed to add class member : Component U2 TPS5430DDAR
+Added Member To Class: ClassName=16_TEC Member=Component U6 LT8722AV#PBF
+Added Member To Class: ClassName=16_TEC Member=Component U7 LT8722AV#PBF
+Added Member To Class: ClassName=16_TEC Member=Component U8 LT8722AV#PBF
+Added Member To Class: ClassName=16_TEC Member=Component U9 LT8722AV#PBF
+Added Member To Class: ClassName=18_HD4_PUMP Member=Component U16 mp-HighDriver4
+Added Member To Class: ClassName=18_HD4_PUMP Member=Component U17 PCA9508DP,118
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component U18 PCA9508DP,118
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component U19 PCA9508DP,118
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component U20 PCA9508DP,118
+Add Class Member: Failed to add class member : Component U21 IP4220CZ6
+Add Class Member: Failed to add class member : Component U22 IP4220CZ6
+Add Class Member: Failed to add class member : Component U35 TPS5430DDAR
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component U45 PCA9508DP,118
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component U46 PCA9508DP,118
+Add Class Member: Failed to add class member : Component VR1 LM1117MP-3.3/NOPB
+Add Class Member: Failed to add class member : Component VR2 LM1117MP-3.3/NOPB
