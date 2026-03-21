@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=C89-1
+Removed Pin From Net: NetName=12V_HEATER Pin=C89-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R504-2
+Removed Member From Class: ClassName=15_HEATER Member=C89
+Change Component Footprint: Designator=R501 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R502 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R503 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005X40
+Added Pin To Net: NetName=GND Pin=R504-2
+Added Pin To Net: NetName=CPU_PRAM_SW_SEL Pin=R526-1
+Added Pin To Net: NetName=CPU_PRAM_SW_SEL Pin=R623-1
+Added Pin To Net: NetName=CPU_PRAM_SW_SEL Pin=U71-1
+Added Net: Name=CPU_PRAM_SW_SEL
+Added Pin To Net: NetName=NetR504_1 Pin=R504-1
+Added Pin To Net: NetName=NetR504_1 Pin=U71-15
+Added Net: Name=NetR504_1
