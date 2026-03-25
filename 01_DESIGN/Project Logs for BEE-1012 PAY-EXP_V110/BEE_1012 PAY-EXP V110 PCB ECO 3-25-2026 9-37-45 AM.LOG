@@ -1,0 +1,15 @@
+Added Component: Designator=J35(47346-0001_MOL)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VUSB Pin=J35-1
+Added Pin To Net: NetName=NetJ35_2 Pin=J35-2
+Added Pin To Net: NetName=NetJ35_3 Pin=J35-3
+Added Pin To Net: NetName=GND Pin=J35-5
+Added Pin To Net: NetName=GND Pin=J35-6
+Added Pin To Net: NetName=GND Pin=J35-6
+Added Pin To Net: NetName=GND Pin=J35-6
+Added Pin To Net: NetName=GND Pin=J35-6
+Added Pin To Net: NetName=GND Pin=J35-6
+Added Pin To Net: NetName=GND Pin=J35-6
+Added Member To Class: ClassName=05_CONNECTOR_IN Member=Component J35 0473460001

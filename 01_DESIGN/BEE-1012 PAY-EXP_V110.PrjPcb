@@ -2329,7 +2329,7 @@ Net19=NetName=5V_MCU|NetColor=$001D7638
 Net20=NetName=5V_PERI|NetColor=$001D7638
 Net21=NetName=5V_SAMA7|NetColor=$00EB9E6D
 Net22=NetName=5V_SOM|NetColor=$006E6EFF
-Net23=NetName=5V_TEC|NetColor=clBlack
+Net23=NetName=5V_TEC|NetColor=$00C9C4A2
 Net24=NetName=EXP_12V|NetColor=$0066FF99
 Net25=NetName=GND|NetColor=$00006699
 Net26=NetName=GND_12V_AUX|NetColor=$00003366

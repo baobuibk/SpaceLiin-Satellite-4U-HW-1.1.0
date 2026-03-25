@@ -1,0 +1,4 @@
+Change Component Comment : Designator=R288 Old Comment=1M New Comment=DNP/1M
+Change Component Description : Designator=BT1 Old Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel New Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel | Keystone Electronics 3035
+Added Differential Pair: Name=USB_CONSOLE
+Added Member To Class: ClassName=DIFF90 Member=USB_CONSOLE

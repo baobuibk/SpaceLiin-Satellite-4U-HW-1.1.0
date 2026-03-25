@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VDD_3V3 Pin=J25-2
+Removed Pin From Net: NetName=GND Pin=J25-3
+Removed Pin From Net: NetName=TDI_PC28 Pin=J25-4
+Removed Pin From Net: NetName=TCK_SWCLK_PC26 Pin=J25-5
+Removed Pin From Net: NetName=NTRST_PC25 Pin=J25-6
+Removed Pin From Net: NetName=TDO_PC29 Pin=J25-7
+Removed Pin From Net: NetName=TMS_SWDIO_PC27 Pin=J25-8
+Added Component: Designator=J25(Header_254P_7x1)
+Added Pin To Net: NetName=VDD_3V3 Pin=J25-1
+Added Pin To Net: NetName=GND Pin=J25-2
+Added Pin To Net: NetName=TDI_PC28 Pin=J25-3
+Added Pin To Net: NetName=TCK_SWCLK_PC26 Pin=J25-4
+Added Pin To Net: NetName=NTRST_PC25 Pin=J25-5
+Added Pin To Net: NetName=TDO_PC29 Pin=J25-6
+Added Pin To Net: NetName=TMS_SWDIO_PC27 Pin=J25-7
