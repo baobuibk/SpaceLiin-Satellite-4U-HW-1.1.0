@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=5V_SAMA7 Pin=R586-1
+Removed Pin From Net: NetName=5V_SAMA7 Pin=R591-1
+Change Component Footprint: Designator=J3 Old Footprint=SAMTEC_TSM-108-01-L-SV-P-TR New Footprint=Header_254P_8x1
+Change Component Footprint: Designator=J25 Old Footprint=SAMTEC_TSM-108-01-L-SV-P-TR New Footprint=Header_254P_8x1
+Change Component Description : Designator=BT1 Old Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel New Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel | Keystone Electronics 3035
+Added Pin To Net: NetName=VDD_3V3 Pin=R586-1
+Added Pin To Net: NetName=VDD_3V3 Pin=R591-1
