@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=3.3V_MCU Pin=R144-2
+Removed Pin From Net: NetName=MCU_I2C1_SCL Pin=R145-1
+Removed Pin From Net: NetName=3.3V_MCU Pin=R145-2
+Removed Pin From Net: NetName=MCU_I2C1_SDA Pin=R146-1
+Removed Pin From Net: NetName=3.3V_MCU Pin=R146-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R147-2
+Removed Pin From Net: NetName=MCU_I2C1_SCL Pin=U10-24
+Removed Pin From Net: NetName=MCU_I2C1_SDA Pin=U10-27
+Removed Pin From Net: NetName=MCU_I2C1_SCL Pin=U57-24
+Removed Pin From Net: NetName=MCU_I2C1_SDA Pin=U57-27
+Change Component Comment : Designator=R144 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R145 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R146 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R147 Old Comment=10k New Comment=22R
+Added Pin To Net: NetName=MCU_I2C1_SDA Pin=R145-1
+Added Pin To Net: NetName=MCU_I2C1_SCL Pin=R146-1
+Added Pin To Net: NetName=NetR144_2 Pin=R144-2
+Added Pin To Net: NetName=NetR144_2 Pin=U10-27
+Added Net: Name=NetR144_2
+Added Pin To Net: NetName=NetR145_2 Pin=R145-2
+Added Pin To Net: NetName=NetR145_2 Pin=U57-27
+Added Net: Name=NetR145_2
+Added Pin To Net: NetName=NetR146_2 Pin=R146-2
+Added Pin To Net: NetName=NetR146_2 Pin=U10-24
+Added Net: Name=NetR146_2
+Added Pin To Net: NetName=NetR147_2 Pin=R147-2
+Added Pin To Net: NetName=NetR147_2 Pin=U57-24
+Added Net: Name=NetR147_2

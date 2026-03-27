@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=_PB28 Pin=U29-G10
+Removed Member From Class: ClassName=08_SAMA7G54-PIO Member=R356
+Removed Member From Class: ClassName=08_SAMA7G54-PIO Member=R358
+Removed Member From Class: ClassName=08_SAMA7G54-PIO Member=R361
+Removed Member From Class: ClassName=08_SAMA7G54-PIO Member=R486
+Removed Member From Class: ClassName=08_SAMA7G54-PIO Member=R516
+Change Component Comment : Designator=R204 Old Comment=133k New Comment=47k
+Change Component Comment : Designator=R224 Old Comment=133k New Comment=47k
+Change Component Comment : Designator=R611 Old Comment=133k New Comment=47k
+Change Component Description : Designator=BT1 Old Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel New Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel | Keystone Electronics 3035
+Change Net Name : Old Net Name=_PB4 New Net Name=_PB3
+Change Net Name : Old Net Name=_PB5 New Net Name=_PB4
+Change Net Name : Old Net Name=_PB6 New Net Name=_PB5
+Change Net Name : Old Net Name=_PB7 New Net Name=_PB6
