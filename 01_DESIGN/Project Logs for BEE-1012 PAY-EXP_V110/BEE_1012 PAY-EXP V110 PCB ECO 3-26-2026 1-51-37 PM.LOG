@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=_PC3 Pin=R390-1
-Removed Pin From Net: NetName=VDD_3V3 Pin=R390-2
-Removed Pin From Net: NetName=GND Pin=R391-1
-Removed Pin From Net: NetName=_PC3 Pin=R391-2
-Removed Member From Class: ClassName=08_SAMA7G54-PIO Member=R390
-Removed Member From Class: ClassName=08_SAMA7G54-PIO Member=R391
