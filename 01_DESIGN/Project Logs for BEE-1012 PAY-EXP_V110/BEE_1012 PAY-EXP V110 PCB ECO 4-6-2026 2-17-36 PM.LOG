@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=3.3V_USB_ANALOG Pin=U4-27
+Removed Pin From Net: NetName=3.3V_USB_A2 Pin=U32-27
+Change Component Comment : Designator=R404 Old Comment=36k New Comment=10k
+Added Component: Designator=R638(RES_C_1005X40)
+Added Component: Designator=R639(RES_C_1005X40)
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=R638-1
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=R639-1
+Added Pin To Net: NetName=NetR638_2 Pin=R638-2
+Added Pin To Net: NetName=NetR638_2 Pin=U4-27
+Added Net: Name=NetR638_2
+Added Pin To Net: NetName=NetR639_2 Pin=R639-2
+Added Pin To Net: NetName=NetR639_2 Pin=U32-27
+Added Net: Name=NetR639_2
+Added Member To Class: ClassName=10_USB Member=Component R638 4.7k
+Added Member To Class: ClassName=12_CONSOLE Member=Component R639 4.7k
