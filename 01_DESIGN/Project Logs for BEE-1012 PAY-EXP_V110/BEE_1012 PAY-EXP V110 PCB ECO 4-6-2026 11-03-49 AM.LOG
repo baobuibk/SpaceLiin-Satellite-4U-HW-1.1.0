@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CPU_WD_WAKE Pin=R551-1
+Removed Pin From Net: NetName=CPU_WD_DONE Pin=R637-1
+Removed Pin From Net: NetName=NetR637_2 Pin=U29-W20
+Removed Pin From Net: NetName=NetR551_2 Pin=U29-W21
+Added Pin To Net: NetName=CPU_WD_DONE Pin=R551-1
+Added Pin To Net: NetName=CPU_WD_WAKE Pin=R637-1
+Added Pin To Net: NetName=NetR637_2 Pin=U29-G12
+Added Pin To Net: NetName=NetR551_2 Pin=U29-H12

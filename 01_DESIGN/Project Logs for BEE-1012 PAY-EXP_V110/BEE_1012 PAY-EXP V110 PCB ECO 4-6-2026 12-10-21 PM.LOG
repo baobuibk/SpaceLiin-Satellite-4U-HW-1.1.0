@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=GND Pin=C402-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=C402-2
+Removed Pin From Net: NetName=SOM_CONSOLE_RX Pin=R295-2
+Removed Pin From Net: NetName=SOM_CONSOLE_TX Pin=R316-2
+Removed Pin From Net: NetName=VDD_3V3 Pin=R389-2
+Removed Pin From Net: NetName=CPU_WD_nRESET Pin=R460-1
+Removed Pin From Net: NetName=NetR389_1 Pin=R460-2
+Removed Pin From Net: NetName=GND Pin=R461-1
+Removed Pin From Net: NetName=GND Pin=R550-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=U26-1
+Removed Pin From Net: NetName=GND Pin=U26-2
+Removed Pin From Net: NetName=NetR389_1 Pin=U26-6
+Removed Member From Class: ClassName=13_MRAM_RTC_WDT Member=C402
+Removed Member From Class: ClassName=13_MRAM_RTC_WDT Member=JP8
+Removed Member From Class: ClassName=13_MRAM_RTC_WDT Member=R389
+Removed Member From Class: ClassName=13_MRAM_RTC_WDT Member=R460
+Removed Member From Class: ClassName=13_MRAM_RTC_WDT Member=R461
+Removed Member From Class: ClassName=13_MRAM_RTC_WDT Member=R550
+Removed Member From Class: ClassName=08_SAMA7G54-PIO Member=R551
+Removed Member From Class: ClassName=08_SAMA7G54-PIO Member=R637
+Removed Member From Class: ClassName=13_MRAM_RTC_WDT Member=U26
+Change Component Comment : Designator=R461 Old Comment=16.5k/1% New Comment=10k
+Change Component Comment : Designator=R550 Old Comment=16.5k/1% New Comment=10k
+Change Component Comment : Designator=R460 Old Comment=22R New Comment=10k
+Change Component Comment : Designator=R551 Old Comment=22R New Comment=10k
+Change Component Comment : Designator=R637 Old Comment=22R New Comment=10k
+Added Component: Designator=C403(CAP_C_1005X60)
+Added Component: Designator=C404(CAP_C_1005X60)
+Added Component: Designator=C405(CAP_C_1005X60)
+Added Component: Designator=C406(CAP_C_1005X60)
+Added Component: Designator=C407(CAP_C_1005X60)
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=C402-1
+Added Pin To Net: NetName=GND Pin=C402-2
+Added Pin To Net: NetName=GND Pin=C403-1
+Added Pin To Net: NetName=5V_Solenoid Pin=C403-2
+Added Pin To Net: NetName=GND Pin=C404-1
+Added Pin To Net: NetName=5V_Solenoid Pin=C404-2
+Added Pin To Net: NetName=GND Pin=C405-1
+Added Pin To Net: NetName=5V_Solenoid Pin=C405-2
+Added Pin To Net: NetName=GND Pin=C406-1
+Added Pin To Net: NetName=5V_Solenoid Pin=C406-2
+Added Pin To Net: NetName=GND Pin=C407-1
+Added Pin To Net: NetName=5V_Solenoid Pin=C407-2
+Added Pin To Net: NetName=SOM_CONSOLE_TX Pin=R295-2
+Added Pin To Net: NetName=SOM_CONSOLE_RX Pin=R316-2
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=R389-2
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=R460-2
+Added Pin To Net: NetName=NetR295_1 Pin=R461-1
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=R461-2
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=R550-2
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=R551-2
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=R637-2
+Added Pin To Net: NetName=NetR389_1 Pin=U25-1
+Added Pin To Net: NetName=NetR460_1 Pin=R460-1
+Added Pin To Net: NetName=NetR460_1 Pin=U25-11
+Added Net: Name=NetR460_1
+Added Pin To Net: NetName=NetR550_1 Pin=R550-1
+Added Pin To Net: NetName=NetR550_1 Pin=U25-22
+Added Net: Name=NetR550_1
+Added Pin To Net: NetName=NetR551_1 Pin=R551-1
+Added Pin To Net: NetName=NetR551_1 Pin=U25-24
+Added Net: Name=NetR551_1
+Added Pin To Net: NetName=NetR637_1 Pin=R637-1
+Added Pin To Net: NetName=NetR637_1 Pin=U25-18
+Added Net: Name=NetR637_1
+Added Member To Class: ClassName=12_CONSOLE Member=Component C402 0.1uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C403 0.1uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C404 0.1uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C405 0.1uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C406 0.1uF/10V
+Added Member To Class: ClassName=19_SOLENOID_HB_1 Member=Component C407 0.1uF/10V
+Added Member To Class: ClassName=12_CONSOLE Member=Component R389 10k
+Added Member To Class: ClassName=12_CONSOLE Member=Component R460 10k
+Added Member To Class: ClassName=12_CONSOLE Member=Component R461 10k
+Added Member To Class: ClassName=12_CONSOLE Member=Component R550 10k
+Added Member To Class: ClassName=12_CONSOLE Member=Component R551 10k
+Added Member To Class: ClassName=12_CONSOLE Member=Component R637 10k
