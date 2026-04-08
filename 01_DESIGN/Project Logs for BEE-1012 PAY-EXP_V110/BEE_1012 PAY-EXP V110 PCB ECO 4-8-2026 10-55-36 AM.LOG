@@ -1,0 +1,24 @@
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_5V_HD4_N
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_5V_HD4_P
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_5V_SAMA7_N
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_5V_SAMA7_P
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_5V_Solenoid_N
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_5V_Solenoid_P
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_5V_TEC_N
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_5V_TEC_P
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_12V_AI_N
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_12V_AI_P
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_12V_HEATER_N
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_12V_HEATER_P
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_EXP_12V_N
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_EXP_12V_P
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_LP_12V_N
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_LP_12V_P
+Added Member To Class: ClassName=DIFF100 Member=SENSE_5V_HD4
+Added Member To Class: ClassName=DIFF100 Member=SENSE_5V_SAMA7
+Added Member To Class: ClassName=DIFF100 Member=SENSE_5V_Solenoid
+Added Member To Class: ClassName=DIFF100 Member=SENSE_5V_TEC
+Added Member To Class: ClassName=DIFF100 Member=SENSE_12V_AI
+Added Member To Class: ClassName=DIFF100 Member=SENSE_12V_HEATER
+Added Member To Class: ClassName=DIFF100 Member=SENSE_EXP_12V
+Added Member To Class: ClassName=DIFF100 Member=SENSE_LP_12V

@@ -1,0 +1,738 @@
+Removed Pin From Net: NetName=EXP_12V Pin=C1-2
+Removed Pin From Net: NetName=EXP_12V Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C87-1
+Removed Pin From Net: NetName=3.3V_MCU Pin=C87-2
+Removed Pin From Net: NetName=5V_SAMA7 Pin=C142-2
+Removed Pin From Net: NetName=5V_SAMA7 Pin=C143-2
+Removed Pin From Net: NetName=5V_TEC Pin=C163-2
+Removed Pin From Net: NetName=5V_TEC Pin=C164-2
+Removed Pin From Net: NetName=5V_HD4 Pin=C168-2
+Removed Pin From Net: NetName=5V_HD4 Pin=C169-2
+Removed Pin From Net: NetName=5V_Solenoid Pin=C173-2
+Removed Pin From Net: NetName=5V_Solenoid Pin=C174-2
+Removed Pin From Net: NetName=12V_HEATER Pin=C198-2
+Removed Pin From Net: NetName=12V_HEATER Pin=C199-2
+Removed Pin From Net: NetName=12V_AI Pin=C395-2
+Removed Pin From Net: NetName=12V_AI Pin=C396-2
+Removed Pin From Net: NetName=EXP_12V Pin=D1-1
+Removed Pin From Net: NetName=5V_SAMA7 Pin=D13-1
+Removed Pin From Net: NetName=5V_TEC Pin=D15-1
+Removed Pin From Net: NetName=5V_HD4 Pin=D16-1
+Removed Pin From Net: NetName=5V_Solenoid Pin=D17-1
+Removed Pin From Net: NetName=12V_HEATER Pin=D19-1
+Removed Pin From Net: NetName=LP_12V Pin=DS9-2
+Removed Pin From Net: NetName=LP_12V Pin=J21-1
+Removed Pin From Net: NetName=LP_12V Pin=J22-1
+Removed Pin From Net: NetName=LP_12V Pin=J23-1
+Removed Pin From Net: NetName=EXP_12V Pin=JP1-2
+Removed Pin From Net: NetName=5V_SAMA7 Pin=JP3-2
+Removed Pin From Net: NetName=5V_TEC Pin=JP5-2
+Removed Pin From Net: NetName=5V_HD4 Pin=JP6-2
+Removed Pin From Net: NetName=5V_Solenoid Pin=JP9-2
+Removed Pin From Net: NetName=12V_HEATER Pin=JP11-2
+Removed Pin From Net: NetName=EXP_12V Pin=R2-2
+Removed Pin From Net: NetName=EXP_12V Pin=R3-2
+Removed Pin From Net: NetName=MCU_I2C1_SDA Pin=R144-1
+Removed Pin From Net: NetName=MCU_I2C1_SCL Pin=R146-1
+Removed Pin From Net: NetName=GND Pin=R149-1
+Removed Pin From Net: NetName=12V_HEATER Pin=R212-2
+Removed Pin From Net: NetName=12V_HEATER Pin=R214-2
+Removed Pin From Net: NetName=5V_SAMA7 Pin=R250-2
+Removed Pin From Net: NetName=5V_SAMA7 Pin=R251-2
+Removed Pin From Net: NetName=5V_TEC Pin=R418-2
+Removed Pin From Net: NetName=5V_TEC Pin=R419-2
+Removed Pin From Net: NetName=5V_HD4 Pin=R426-2
+Removed Pin From Net: NetName=5V_HD4 Pin=R427-2
+Removed Pin From Net: NetName=5V_Solenoid Pin=R434-2
+Removed Pin From Net: NetName=5V_Solenoid Pin=R435-2
+Removed Pin From Net: NetName=GND Pin=R558-1
+Removed Pin From Net: NetName=GND Pin=R562-1
+Removed Pin From Net: NetName=EXP_12V Pin=U1-6
+Removed Pin From Net: NetName=NetR562_2 Pin=U10-1
+Removed Pin From Net: NetName=eFUSE_ILIM_IF_12V Pin=U10-2
+Removed Pin From Net: NetName=eFUSE_ILIM_12V_Heater Pin=U10-3
+Removed Pin From Net: NetName=eFUSE_ILIM_12V_LP Pin=U10-4
+Removed Pin From Net: NetName=eFUSE_ILIM_5V_SOM Pin=U10-5
+Removed Pin From Net: NetName=eFUSE_ILIM_5V_TEC Pin=U10-6
+Removed Pin From Net: NetName=eFUSE_ILIM_5V_HD4 Pin=U10-7
+Removed Pin From Net: NetName=eFUSE_ILIM_3/5V_Solenoid Pin=U10-8
+Removed Pin From Net: NetName=eFUSE_ILIM_12V_AI Pin=U10-9
+Removed Pin From Net: NetName=GND Pin=U10-11
+Removed Pin From Net: NetName=NetR560_2 Pin=U10-22
+Removed Pin From Net: NetName=NetR149_2 Pin=U10-23
+Removed Pin From Net: NetName=GND Pin=U10-25
+Removed Pin From Net: NetName=3.3V_MCU Pin=U10-26
+Removed Pin From Net: NetName=NetR144_2 Pin=U10-27
+Removed Pin From Net: NetName=NetR558_2 Pin=U10-28
+Removed Pin From Net: NetName=GND Pin=U10-29
+Removed Pin From Net: NetName=5V_SAMA7 Pin=U24-6
+Removed Pin From Net: NetName=5V_TEC Pin=U36-6
+Removed Pin From Net: NetName=5V_HD4 Pin=U37-6
+Removed Pin From Net: NetName=5V_Solenoid Pin=U38-6
+Removed Pin From Net: NetName=12V_HEATER Pin=U44-6
+Removed Pin From Net: NetName=GND Pin=U67-5
+Removed Pin From Net: NetName=12V_AI Pin=U73-7
+Removed Member From Class: ClassName=ANA_SWITCH Member=C87
+Removed Member From Class: ClassName=ANA_SWITCH Member=R144
+Removed Member From Class: ClassName=ANA_SWITCH Member=R146
+Removed Member From Class: ClassName=ANA_SWITCH Member=R149
+Removed Member From Class: ClassName=ANA_SWITCH Member=R558
+Removed Member From Class: ClassName=ANA_SWITCH Member=R560
+Removed Member From Class: ClassName=ANA_SWITCH Member=R562
+Removed Member From Class: ClassName=ANA_SWITCH Member=U10
+Change Component Footprint: Designator=C87 Old Footprint=CAP_C_1005X60 New Footprint=CAP_C_1005X50_L
+Change Component Footprint: Designator=U10 Old Footprint=QFN40P400X400X80-29N New Footprint=UQFN-16_4X4_EP2.6X2.6
+Change Component Comment : Designator=C87 Old Comment=0.1uF/10V New Comment=4.7uF/10V
+Change Component Comment : Designator=R146 Old Comment=22R New Comment=0R
+Change Component Comment : Designator=R144 Old Comment=22R New Comment=DNP/4.7k
+Change Component Comment : Designator=R38 Old Comment=DNP/4.7k New Comment=4.7k
+Change Component Comment : Designator=R60 Old Comment=DNP/4.7k New Comment=4.7k
+Change Component Comment : Designator=U10 Old Comment=MAX14662ETI+T New Comment=PAC1934 UQFN-16
+Change component parameters: Designator = "U10" ("U10"); Footprint = "QFN40P400X400X80-29N"; UniqueID = "\ZHWUSDXP" ("\ZHWUSDXP")
+Change component parameters (AddParameter): Name = "Category"; Value = "MCHP-Analog"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\PAC1934 UQFN-16.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\UQFN-16_4X4_EP2.6X2.6.PcbLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description_"; Value = "MCHP ANALOG POWER CURRENT SENSE MONITOR PAC1934T-I/JQ UQFN-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dev Tools Status"; Value = "Design"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PAC1934T-I/JQ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MCHP-ID"; Value = "MIC8883"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Owner"; Value = "Ciprian Abramov"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PAC1934T-I/JQCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "PAC1934 UQFN-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Power/Current Sensor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "PAC1934"; VariantName = "[No Variations]"
+Added Component: Designator=C402(CAP_C_1005X50_L)
+Added Component: Designator=C408(CAP_C_1005X50_L)
+Added Component: Designator=C409(CAP_C_1005X50_L)
+Added Component: Designator=C410(CAP_C_1005X50_L)
+Added Component: Designator=C411(CAP_C_1005X60)
+Added Component: Designator=C412(CAP_C_1005X50_L)
+Added Component: Designator=C413(CAP_C_1005X60)
+Added Component: Designator=R640(RES_C_1005X40)
+Added Component: Designator=R641(RES_C_1005X40)
+Added Component: Designator=R642(RES_C_1206_SHUNT)
+Add component (AddParameter): Name = "BOM Notes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://chn-vm-apps.microchip.com/mchprepo/parts/Datasheets/n_catalog_partition09_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Datasheets\n_catalog_partition09_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\Shunt 4 Pin.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\RES_C_1206_SHUNT.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "RES SHUNT MF 0.01R 1% 0.75W SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "SUSUMU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "KRL1632E-M-R010-F-T5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "RSMT1316"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55C to +155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Ciprian Abramov"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.75W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "408-1570-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Shunt 4 Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffcient"; Value = "50ppm/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RES SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.01R"; VariantName = "[No Variations]"
+Added Component: Designator=R643(RES_C_1206_SHUNT)
+Add component (AddParameter): Name = "BOM Notes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://chn-vm-apps.microchip.com/mchprepo/parts/Datasheets/n_catalog_partition09_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Datasheets\n_catalog_partition09_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\Shunt 4 Pin.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\RES_C_1206_SHUNT.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "RES SHUNT MF 0.01R 1% 0.75W SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "SUSUMU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "KRL1632E-M-R010-F-T5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "RSMT1316"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55C to +155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Ciprian Abramov"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.75W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "408-1570-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Shunt 4 Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffcient"; Value = "50ppm/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RES SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.01R"; VariantName = "[No Variations]"
+Added Component: Designator=R644(RES_C_1206_SHUNT)
+Add component (AddParameter): Name = "BOM Notes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://chn-vm-apps.microchip.com/mchprepo/parts/Datasheets/n_catalog_partition09_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Datasheets\n_catalog_partition09_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\Shunt 4 Pin.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\RES_C_1206_SHUNT.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "RES SHUNT MF 0.01R 1% 0.75W SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "SUSUMU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "KRL1632E-M-R010-F-T5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "RSMT1316"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55C to +155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Ciprian Abramov"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.75W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "408-1570-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Shunt 4 Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffcient"; Value = "50ppm/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RES SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.01R"; VariantName = "[No Variations]"
+Added Component: Designator=R645(RES_C_1206_SHUNT)
+Add component (AddParameter): Name = "BOM Notes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://chn-vm-apps.microchip.com/mchprepo/parts/Datasheets/n_catalog_partition09_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Datasheets\n_catalog_partition09_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\Shunt 4 Pin.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\RES_C_1206_SHUNT.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "RES SHUNT MF 0.01R 1% 0.75W SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "SUSUMU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "KRL1632E-M-R010-F-T5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "RSMT1316"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55C to +155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Ciprian Abramov"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.75W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "408-1570-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Shunt 4 Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffcient"; Value = "50ppm/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RES SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.01R"; VariantName = "[No Variations]"
+Added Component: Designator=R646(RES_C_1206_SHUNT)
+Add component (AddParameter): Name = "BOM Notes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://chn-vm-apps.microchip.com/mchprepo/parts/Datasheets/n_catalog_partition09_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Datasheets\n_catalog_partition09_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\Shunt 4 Pin.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\RES_C_1206_SHUNT.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "RES SHUNT MF 0.01R 1% 0.75W SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "SUSUMU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "KRL1632E-M-R010-F-T5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "RSMT1316"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55C to +155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Ciprian Abramov"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.75W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "408-1570-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Shunt 4 Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffcient"; Value = "50ppm/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RES SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.01R"; VariantName = "[No Variations]"
+Added Component: Designator=R647(RES_C_1206_SHUNT)
+Add component (AddParameter): Name = "BOM Notes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://chn-vm-apps.microchip.com/mchprepo/parts/Datasheets/n_catalog_partition09_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Datasheets\n_catalog_partition09_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\Shunt 4 Pin.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\RES_C_1206_SHUNT.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "RES SHUNT MF 0.01R 1% 0.75W SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "SUSUMU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "KRL1632E-M-R010-F-T5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "RSMT1316"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55C to +155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Ciprian Abramov"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.75W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "408-1570-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Shunt 4 Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffcient"; Value = "50ppm/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RES SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.01R"; VariantName = "[No Variations]"
+Added Component: Designator=R648(RES_C_1206_SHUNT)
+Add component (AddParameter): Name = "BOM Notes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://chn-vm-apps.microchip.com/mchprepo/parts/Datasheets/n_catalog_partition09_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Datasheets\n_catalog_partition09_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\Shunt 4 Pin.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\RES_C_1206_SHUNT.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "RES SHUNT MF 0.01R 1% 0.75W SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "SUSUMU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "KRL1632E-M-R010-F-T5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "RSMT1316"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55C to +155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Ciprian Abramov"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.75W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "408-1570-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Shunt 4 Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffcient"; Value = "50ppm/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RES SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.01R"; VariantName = "[No Variations]"
+Added Component: Designator=R649(RES_C_1206_SHUNT)
+Add component (AddParameter): Name = "BOM Notes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://chn-vm-apps.microchip.com/mchprepo/parts/Datasheets/n_catalog_partition09_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Datasheets\n_catalog_partition09_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\Shunt 4 Pin.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\RES_C_1206_SHUNT.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "RES SHUNT MF 0.01R 1% 0.75W SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "SUSUMU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "KRL1632E-M-R010-F-T5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "RSMT1316"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55C to +155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Ciprian Abramov"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.75W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "408-1570-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Shunt 4 Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeffcient"; Value = "50ppm/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RES SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.01R"; VariantName = "[No Variations]"
+Added Component: Designator=R650(RES_C_1005X40)
+Added Component: Designator=TP3(Testpoint_80)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP4(Testpoint_80)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP15(Testpoint_80)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP29(Testpoint_80)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP30(Testpoint_80)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP31(Testpoint_80)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP32(Testpoint_80)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP33(Testpoint_80)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U26(UQFN-16_4X4_EP2.6X2.6)
+Add component (AddParameter): Name = "Category"; Value = "MCHP-Analog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\PAC1934 UQFN-16.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\UQFN-16_4X4_EP2.6X2.6.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "MCHP ANALOG POWER CURRENT SENSE MONITOR PAC1934T-I/JQ UQFN-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PAC1934T-I/JQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "MIC8883"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Ciprian Abramov"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "PAC1934T-I/JQCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "PAC1934 UQFN-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Power/Current Sensor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "PAC1934"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V_MCU Pin=C87-1
+Added Pin To Net: NetName=GND Pin=C87-2
+Added Pin To Net: NetName=3.3V_MCU Pin=C402-1
+Added Pin To Net: NetName=GND Pin=C402-2
+Added Pin To Net: NetName=3.3V_MCU Pin=C408-1
+Added Pin To Net: NetName=GND Pin=C408-2
+Added Pin To Net: NetName=3.3V_MCU Pin=C409-1
+Added Pin To Net: NetName=GND Pin=C409-2
+Added Pin To Net: NetName=3.3V_MCU Pin=C410-1
+Added Pin To Net: NetName=GND Pin=C410-2
+Added Pin To Net: NetName=3.3V_MCU Pin=C411-1
+Added Pin To Net: NetName=GND Pin=C411-2
+Added Pin To Net: NetName=3.3V_MCU Pin=C412-1
+Added Pin To Net: NetName=GND Pin=C412-2
+Added Pin To Net: NetName=3.3V_MCU Pin=C413-1
+Added Pin To Net: NetName=GND Pin=C413-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R144-1
+Added Pin To Net: NetName=NetR144_2 Pin=R146-1
+Added Pin To Net: NetName=GND Pin=R146-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R149-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R558-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R562-1
+Added Pin To Net: NetName=NetR558_2 Pin=R631-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R640-2
+Added Pin To Net: NetName=GND Pin=R641-2
+Added Pin To Net: NetName=LP_12V Pin=R642-1
+Added Pin To Net: NetName=LP_12V Pin=R642-1
+Added Pin To Net: NetName=5V_SAMA7 Pin=R643-2
+Added Pin To Net: NetName=5V_SAMA7 Pin=R643-2
+Added Pin To Net: NetName=12V_HEATER Pin=R644-2
+Added Pin To Net: NetName=12V_HEATER Pin=R644-2
+Added Pin To Net: NetName=5V_TEC Pin=R645-2
+Added Pin To Net: NetName=5V_TEC Pin=R645-2
+Added Pin To Net: NetName=12V_AI Pin=R646-1
+Added Pin To Net: NetName=12V_AI Pin=R646-1
+Added Pin To Net: NetName=5V_HD4 Pin=R647-2
+Added Pin To Net: NetName=5V_HD4 Pin=R647-2
+Added Pin To Net: NetName=EXP_12V Pin=R648-2
+Added Pin To Net: NetName=EXP_12V Pin=R648-2
+Added Pin To Net: NetName=5V_Solenoid Pin=R649-2
+Added Pin To Net: NetName=5V_Solenoid Pin=R649-2
+Added Pin To Net: NetName=PD31 Pin=R650-1
+Added Pin To Net: NetName=NetR562_2 Pin=R650-2
+Added Pin To Net: NetName=5V_SAMA7 Pin=TP4-1
+Added Pin To Net: NetName=12V_HEATER Pin=TP15-1
+Added Pin To Net: NetName=5V_TEC Pin=TP29-1
+Added Pin To Net: NetName=5V_HD4 Pin=TP31-1
+Added Pin To Net: NetName=EXP_12V Pin=TP32-1
+Added Pin To Net: NetName=5V_Solenoid Pin=TP33-1
+Added Pin To Net: NetName=NetR558_2 Pin=U10-1
+Added Pin To Net: NetName=3.3V_MCU Pin=U10-2
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=MCU_I2C1_SCL Pin=U10-4
+Added Pin To Net: NetName=MCU_I2C1_SDA Pin=U10-5
+Added Pin To Net: NetName=3.3V_MCU Pin=U10-15
+Added Pin To Net: NetName=NetR149_2 Pin=U10-16
+Added Pin To Net: NetName=GND Pin=U10-17
+Added Pin To Net: NetName=NetR562_2 Pin=U26-1
+Added Pin To Net: NetName=3.3V_MCU Pin=U26-2
+Added Pin To Net: NetName=GND Pin=U26-3
+Added Pin To Net: NetName=MCU_I2C1_SCL Pin=U26-4
+Added Pin To Net: NetName=MCU_I2C1_SDA Pin=U26-5
+Added Pin To Net: NetName=3.3V_MCU Pin=U26-15
+Added Pin To Net: NetName=NetR560_2 Pin=U26-16
+Added Pin To Net: NetName=GND Pin=U26-17
+Added Pin To Net: NetName=NetR144_2 Pin=U67-5
+Change Net Name : Old Net Name=12V_AI New Net Name=12V_AI_eFuse
+Change Net Name : Old Net Name=LP_12V New Net Name=LP_12V_eFuse
+Added Pin To Net: NetName=5V_HD4_eFuse Pin=C168-2
+Added Pin To Net: NetName=5V_HD4_eFuse Pin=C169-2
+Added Pin To Net: NetName=5V_HD4_eFuse Pin=D16-1
+Added Pin To Net: NetName=5V_HD4_eFuse Pin=JP6-2
+Added Pin To Net: NetName=5V_HD4_eFuse Pin=R426-2
+Added Pin To Net: NetName=5V_HD4_eFuse Pin=R427-2
+Added Pin To Net: NetName=5V_HD4_eFuse Pin=R647-1
+Added Pin To Net: NetName=5V_HD4_eFuse Pin=R647-1
+Added Pin To Net: NetName=5V_HD4_eFuse Pin=U37-6
+Added Net: Name=5V_HD4_eFuse
+Added Pin To Net: NetName=5V_SAMA7_eFuse Pin=C142-2
+Added Pin To Net: NetName=5V_SAMA7_eFuse Pin=C143-2
+Added Pin To Net: NetName=5V_SAMA7_eFuse Pin=D13-1
+Added Pin To Net: NetName=5V_SAMA7_eFuse Pin=JP3-2
+Added Pin To Net: NetName=5V_SAMA7_eFuse Pin=R250-2
+Added Pin To Net: NetName=5V_SAMA7_eFuse Pin=R251-2
+Added Pin To Net: NetName=5V_SAMA7_eFuse Pin=R643-1
+Added Pin To Net: NetName=5V_SAMA7_eFuse Pin=R643-1
+Added Pin To Net: NetName=5V_SAMA7_eFuse Pin=U24-6
+Added Net: Name=5V_SAMA7_eFuse
+Added Pin To Net: NetName=5V_Solenoid_eFuse Pin=C173-2
+Added Pin To Net: NetName=5V_Solenoid_eFuse Pin=C174-2
+Added Pin To Net: NetName=5V_Solenoid_eFuse Pin=D17-1
+Added Pin To Net: NetName=5V_Solenoid_eFuse Pin=JP9-2
+Added Pin To Net: NetName=5V_Solenoid_eFuse Pin=R434-2
+Added Pin To Net: NetName=5V_Solenoid_eFuse Pin=R435-2
+Added Pin To Net: NetName=5V_Solenoid_eFuse Pin=R649-1
+Added Pin To Net: NetName=5V_Solenoid_eFuse Pin=R649-1
+Added Pin To Net: NetName=5V_Solenoid_eFuse Pin=U38-6
+Added Net: Name=5V_Solenoid_eFuse
+Added Pin To Net: NetName=5V_TEC_eFuse Pin=C163-2
+Added Pin To Net: NetName=5V_TEC_eFuse Pin=C164-2
+Added Pin To Net: NetName=5V_TEC_eFuse Pin=D15-1
+Added Pin To Net: NetName=5V_TEC_eFuse Pin=JP5-2
+Added Pin To Net: NetName=5V_TEC_eFuse Pin=R418-2
+Added Pin To Net: NetName=5V_TEC_eFuse Pin=R419-2
+Added Pin To Net: NetName=5V_TEC_eFuse Pin=R645-1
+Added Pin To Net: NetName=5V_TEC_eFuse Pin=R645-1
+Added Pin To Net: NetName=5V_TEC_eFuse Pin=U36-6
+Added Net: Name=5V_TEC_eFuse
+Added Pin To Net: NetName=12V_AI Pin=C395-2
+Added Pin To Net: NetName=12V_AI Pin=C396-2
+Added Pin To Net: NetName=12V_AI Pin=R646-2
+Added Pin To Net: NetName=12V_AI Pin=R646-2
+Added Pin To Net: NetName=12V_AI Pin=TP30-1
+Added Pin To Net: NetName=12V_AI Pin=U73-7
+Added Net: Name=12V_AI
+Added Pin To Net: NetName=12V_HEATER_eFuse Pin=C198-2
+Added Pin To Net: NetName=12V_HEATER_eFuse Pin=C199-2
+Added Pin To Net: NetName=12V_HEATER_eFuse Pin=D19-1
+Added Pin To Net: NetName=12V_HEATER_eFuse Pin=JP11-2
+Added Pin To Net: NetName=12V_HEATER_eFuse Pin=R212-2
+Added Pin To Net: NetName=12V_HEATER_eFuse Pin=R214-2
+Added Pin To Net: NetName=12V_HEATER_eFuse Pin=R644-1
+Added Pin To Net: NetName=12V_HEATER_eFuse Pin=R644-1
+Added Pin To Net: NetName=12V_HEATER_eFuse Pin=U44-6
+Added Net: Name=12V_HEATER_eFuse
+Added Pin To Net: NetName=EXP_12V_eFuse Pin=C1-2
+Added Pin To Net: NetName=EXP_12V_eFuse Pin=C2-2
+Added Pin To Net: NetName=EXP_12V_eFuse Pin=D1-1
+Added Pin To Net: NetName=EXP_12V_eFuse Pin=JP1-2
+Added Pin To Net: NetName=EXP_12V_eFuse Pin=R2-2
+Added Pin To Net: NetName=EXP_12V_eFuse Pin=R3-2
+Added Pin To Net: NetName=EXP_12V_eFuse Pin=R648-1
+Added Pin To Net: NetName=EXP_12V_eFuse Pin=R648-1
+Added Pin To Net: NetName=EXP_12V_eFuse Pin=U1-6
+Added Net: Name=EXP_12V_eFuse
+Added Pin To Net: NetName=LP_12V Pin=DS9-2
+Added Pin To Net: NetName=LP_12V Pin=J21-1
+Added Pin To Net: NetName=LP_12V Pin=J22-1
+Added Pin To Net: NetName=LP_12V Pin=J23-1
+Added Pin To Net: NetName=LP_12V Pin=R642-2
+Added Pin To Net: NetName=LP_12V Pin=R642-2
+Added Pin To Net: NetName=LP_12V Pin=TP3-1
+Added Net: Name=LP_12V
+Added Pin To Net: NetName=NetR640_1 Pin=R640-1
+Added Pin To Net: NetName=NetR640_1 Pin=U10-6
+Added Net: Name=NetR640_1
+Added Pin To Net: NetName=NetR641_1 Pin=R641-1
+Added Pin To Net: NetName=NetR641_1 Pin=U26-6
+Added Net: Name=NetR641_1
+Added Pin To Net: NetName=SENSE_5V_HD4_N Pin=R647-4
+Added Pin To Net: NetName=SENSE_5V_HD4_N Pin=U26-7
+Added Net: Name=SENSE_5V_HD4_N
+Added Pin To Net: NetName=SENSE_5V_HD4_P Pin=R647-3
+Added Pin To Net: NetName=SENSE_5V_HD4_P Pin=U26-8
+Added Net: Name=SENSE_5V_HD4_P
+Added Pin To Net: NetName=SENSE_5V_SAMA7_N Pin=R643-4
+Added Pin To Net: NetName=SENSE_5V_SAMA7_N Pin=U26-12
+Added Net: Name=SENSE_5V_SAMA7_N
+Added Pin To Net: NetName=SENSE_5V_SAMA7_P Pin=R643-3
+Added Pin To Net: NetName=SENSE_5V_SAMA7_P Pin=U26-11
+Added Net: Name=SENSE_5V_SAMA7_P
+Added Pin To Net: NetName=SENSE_5V_Solenoid_N Pin=R649-4
+Added Pin To Net: NetName=SENSE_5V_Solenoid_N Pin=U26-9
+Added Net: Name=SENSE_5V_Solenoid_N
+Added Pin To Net: NetName=SENSE_5V_Solenoid_P Pin=R649-3
+Added Pin To Net: NetName=SENSE_5V_Solenoid_P Pin=U26-10
+Added Net: Name=SENSE_5V_Solenoid_P
+Added Pin To Net: NetName=SENSE_5V_TEC_N Pin=R645-4
+Added Pin To Net: NetName=SENSE_5V_TEC_N Pin=U26-14
+Added Net: Name=SENSE_5V_TEC_N
+Added Pin To Net: NetName=SENSE_5V_TEC_P Pin=R645-3
+Added Pin To Net: NetName=SENSE_5V_TEC_P Pin=U26-13
+Added Net: Name=SENSE_5V_TEC_P
+Added Pin To Net: NetName=SENSE_12V_AI_N Pin=R646-4
+Added Pin To Net: NetName=SENSE_12V_AI_N Pin=U10-7
+Added Net: Name=SENSE_12V_AI_N
+Added Pin To Net: NetName=SENSE_12V_AI_P Pin=R646-3
+Added Pin To Net: NetName=SENSE_12V_AI_P Pin=U10-8
+Added Net: Name=SENSE_12V_AI_P
+Added Pin To Net: NetName=SENSE_12V_HEATER_N Pin=R644-4
+Added Pin To Net: NetName=SENSE_12V_HEATER_N Pin=U10-14
+Added Net: Name=SENSE_12V_HEATER_N
+Added Pin To Net: NetName=SENSE_12V_HEATER_P Pin=R644-3
+Added Pin To Net: NetName=SENSE_12V_HEATER_P Pin=U10-13
+Added Net: Name=SENSE_12V_HEATER_P
+Added Pin To Net: NetName=SENSE_EXP_12V_N Pin=R648-4
+Added Pin To Net: NetName=SENSE_EXP_12V_N Pin=U10-9
+Added Net: Name=SENSE_EXP_12V_N
+Added Pin To Net: NetName=SENSE_EXP_12V_P Pin=R648-3
+Added Pin To Net: NetName=SENSE_EXP_12V_P Pin=U10-10
+Added Net: Name=SENSE_EXP_12V_P
+Added Pin To Net: NetName=SENSE_LP_12V_N Pin=R642-4
+Added Pin To Net: NetName=SENSE_LP_12V_N Pin=U10-12
+Added Net: Name=SENSE_LP_12V_N
+Added Pin To Net: NetName=SENSE_LP_12V_P Pin=R642-3
+Added Pin To Net: NetName=SENSE_LP_12V_P Pin=U10-11
+Added Net: Name=SENSE_LP_12V_P
+Added Class: Name=21_POWER_PWR_SEN
+Added Differential Pair: Name=SENSE_5V_HD4
+Added Differential Pair: Name=SENSE_5V_SAMA7
+Added Differential Pair: Name=SENSE_5V_Solenoid
+Added Differential Pair: Name=SENSE_5V_TEC
+Added Differential Pair: Name=SENSE_12V_AI
+Added Differential Pair: Name=SENSE_12V_HEATER
+Added Differential Pair: Name=SENSE_EXP_12V
+Added Differential Pair: Name=SENSE_LP_12V
+Added Member To Class: ClassName=17_I2C_Sensor_OnBoard Member=Component R144 DNP/4.7k
+Added Member To Class: ClassName=17_I2C_Sensor_OnBoard Member=Component R146 0R
+Added Member To Class: ClassName=11_MCU Member=Component R650 22R
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component U71 SN3257QPWRQ1
+Added Member To Class: ClassName=POWER Member=Wire 5V_HD4_eFuse
+Added Member To Class: ClassName=POWER Member=Wire 5V_SAMA7_eFuse
+Added Member To Class: ClassName=POWER Member=Wire 5V_Solenoid_eFuse
+Added Member To Class: ClassName=POWER Member=Wire 5V_TEC_eFuse
+Added Member To Class: ClassName=POWER Member=Wire 12V_AI_eFuse
+Added Member To Class: ClassName=POWER Member=Wire 12V_HEATER_eFuse
+Added Member To Class: ClassName=POWER Member=Wire EXP_12V_eFuse
+Added Member To Class: ClassName=POWER Member=Wire LP_12V_eFuse
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_9
+Added Rule: Name=Schematic Supply Nets_11
+Added Rule: Name=Schematic Supply Nets_12
+Added Rule: Name=Schematic Supply Nets_13

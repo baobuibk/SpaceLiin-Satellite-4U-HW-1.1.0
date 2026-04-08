@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=12V_HEATER_eFuse Pin=R644-1
+Removed Pin From Net: NetName=12V_HEATER_eFuse Pin=R644-1
+Removed Pin From Net: NetName=12V_HEATER Pin=R644-2
+Removed Pin From Net: NetName=12V_HEATER Pin=R644-2
+Removed Pin From Net: NetName=12V_AI_eFuse Pin=R646-1
+Removed Pin From Net: NetName=12V_AI_eFuse Pin=R646-1
+Removed Pin From Net: NetName=12V_AI Pin=R646-2
+Removed Pin From Net: NetName=12V_AI Pin=R646-2
+Removed Pin From Net: NetName=EXP_12V_eFuse Pin=R648-1
+Removed Pin From Net: NetName=EXP_12V_eFuse Pin=R648-1
+Removed Pin From Net: NetName=EXP_12V Pin=R648-2
+Removed Pin From Net: NetName=EXP_12V Pin=R648-2
+Removed Pin From Net: NetName=12V_HEATER Pin=TP15-1
+Removed Pin From Net: NetName=12V_AI Pin=TP30-1
+Removed Pin From Net: NetName=EXP_12V Pin=TP32-1
+Added Pin To Net: NetName=12V_AI_eFuse Pin=R644-1
+Added Pin To Net: NetName=12V_AI_eFuse Pin=R644-1
+Added Pin To Net: NetName=12V_AI Pin=R644-2
+Added Pin To Net: NetName=12V_AI Pin=R644-2
+Added Pin To Net: NetName=EXP_12V_eFuse Pin=R646-1
+Added Pin To Net: NetName=EXP_12V_eFuse Pin=R646-1
+Added Pin To Net: NetName=EXP_12V Pin=R646-2
+Added Pin To Net: NetName=EXP_12V Pin=R646-2
+Added Pin To Net: NetName=12V_HEATER_eFuse Pin=R648-1
+Added Pin To Net: NetName=12V_HEATER_eFuse Pin=R648-1
+Added Pin To Net: NetName=12V_HEATER Pin=R648-2
+Added Pin To Net: NetName=12V_HEATER Pin=R648-2
+Added Pin To Net: NetName=12V_AI Pin=TP15-1
+Added Pin To Net: NetName=EXP_12V Pin=TP30-1
+Added Pin To Net: NetName=12V_HEATER Pin=TP32-1
+Change Net Name : Old Net Name=SENSE_12V_AI_N New Net Name=SENSE_EXP_12V_N
+Change Net Name : Old Net Name=SENSE_12V_AI_P New Net Name=SENSE_EXP_12V_P
+Change Net Name : Old Net Name=SENSE_12V_HEATER_N New Net Name=SENSE_12V_AI_N
+Change Net Name : Old Net Name=SENSE_12V_HEATER_P New Net Name=SENSE_12V_AI_P
+Change Net Name : Old Net Name=SENSE_EXP_12V_N New Net Name=SENSE_12V_HEATER_N
+Change Net Name : Old Net Name=SENSE_EXP_12V_P New Net Name=SENSE_12V_HEATER_P
