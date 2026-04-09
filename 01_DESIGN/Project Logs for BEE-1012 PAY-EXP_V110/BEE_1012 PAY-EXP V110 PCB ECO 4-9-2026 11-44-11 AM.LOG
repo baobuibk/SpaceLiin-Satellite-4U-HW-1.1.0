@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=3.3V_MCU Pin=R220-1
+Removed Pin From Net: NetName=MCU_I2C0_SDA Pin=R220-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R221-1
+Removed Pin From Net: NetName=MCU_I2C1_SCL Pin=U10-4
+Removed Pin From Net: NetName=MCU_I2C1_SDA Pin=U10-5
+Removed Pin From Net: NetName=MCU_I2C1_SCL Pin=U26-4
+Removed Pin From Net: NetName=MCU_I2C1_SDA Pin=U26-5
+Removed Member From Class: ClassName=17_FLOW_Sensor Member=R220
+Removed Member From Class: ClassName=17_FLOW_Sensor Member=R221
+Change Component Comment : Designator=R220 Old Comment=4.7k New Comment=22R
+Change Component Comment : Designator=R221 Old Comment=4.7k New Comment=22R
+Added Component: Designator=R651(RES_C_1005X40)
+Added Component: Designator=R652(RES_C_1005X40)
+Added Pin To Net: NetName=MCU_I2C0_SCL Pin=R220-2
+Added Pin To Net: NetName=MCU_I2C0_SDA Pin=R651-2
+Added Pin To Net: NetName=MCU_I2C0_SDA Pin=R652-2
+Added Pin To Net: NetName=NetR220_1 Pin=R220-1
+Added Pin To Net: NetName=NetR220_1 Pin=U10-4
+Added Net: Name=NetR220_1
+Added Pin To Net: NetName=NetR221_1 Pin=R221-1
+Added Pin To Net: NetName=NetR221_1 Pin=U26-4
+Added Net: Name=NetR221_1
+Added Pin To Net: NetName=NetR651_1 Pin=R651-1
+Added Pin To Net: NetName=NetR651_1 Pin=U10-5
+Added Net: Name=NetR651_1
+Added Pin To Net: NetName=NetR652_1 Pin=R652-1
+Added Pin To Net: NetName=NetR652_1 Pin=U26-5
+Added Net: Name=NetR652_1
+Added Member To Class: ClassName=21_POWER_PWR_SEN Member=Component R220 22R
+Added Member To Class: ClassName=21_POWER_PWR_SEN Member=Component R221 22R
+Added Member To Class: ClassName=21_POWER_PWR_SEN Member=Component R651 22R
+Added Member To Class: ClassName=21_POWER_PWR_SEN Member=Component R652 22R

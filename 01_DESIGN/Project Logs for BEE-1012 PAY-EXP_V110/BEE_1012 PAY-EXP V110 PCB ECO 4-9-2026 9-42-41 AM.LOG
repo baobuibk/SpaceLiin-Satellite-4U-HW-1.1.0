@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=SENSE_EXP_12V_N Pin=U10-7
+Removed Pin From Net: NetName=SENSE_EXP_12V_P Pin=U10-8
+Removed Pin From Net: NetName=SENSE_12V_AI_P Pin=U10-13
+Removed Pin From Net: NetName=SENSE_12V_AI_N Pin=U10-14
+Added Pin To Net: NetName=SENSE_12V_AI_N Pin=U10-7
+Added Pin To Net: NetName=SENSE_12V_AI_P Pin=U10-8
+Added Pin To Net: NetName=SENSE_EXP_12V_P Pin=U10-13
+Added Pin To Net: NetName=SENSE_EXP_12V_N Pin=U10-14
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_5V_Solenoid_N
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_5V_Solenoid_P
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_5V_TEC_N
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_5V_TEC_P
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_12V_AI_N
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_12V_AI_P
+Added Member To Class: ClassName=DIFF100 Member=Wire SENSE_12V_HEATER_N
