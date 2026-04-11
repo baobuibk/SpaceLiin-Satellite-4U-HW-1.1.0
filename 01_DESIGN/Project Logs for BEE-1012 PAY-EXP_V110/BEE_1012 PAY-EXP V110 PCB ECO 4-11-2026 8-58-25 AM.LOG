@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=PA17 Pin=R653-1
+Removed Pin From Net: NetName=LASER_SW_EXT_CS Pin=R653-2
+Removed Member From Class: ClassName=11_MCU Member=R653
+Change Component Footprint: Designator=L12 Old Footprint=L-SMD-M-4.8x4.8x2.8mm New Footprint=IND_MP_1250x1250x850
+Change Component Footprint: Designator=J25 Old Footprint=molex_0532610271 New Footprint=MOLEX_5040500291
+Change Component Comment : Designator=R654 Old Comment=0.2R/1W New Comment=0.05R/1W
+Change Component Comment : Designator=L12 Old Comment=82uH New Comment=47uH
+Change Component Comment : Designator=U42 Old Comment=AS3004204-0108X0PSAY New Comment=DNP/AS3004204-0108X0PSAY
+Change Component Designator: OldDesignator=3 NewDesignator=J5
+Added Pin To Net: NetName=LASER_SW_EXT_CS Pin=R37-2
+Added Pin To Net: NetName=_PD28 Pin=R653-2
+Added Pin To Net: NetName=CPU_IR_LED_PWM Pin=R653-1
+Added Pin To Net: NetName=CPU_IR_LED_PWM Pin=R655-2
+Added Pin To Net: NetName=CPU_IR_LED_PWM Pin=R656-1
+Added Net: Name=CPU_IR_LED_PWM
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component R653 22R

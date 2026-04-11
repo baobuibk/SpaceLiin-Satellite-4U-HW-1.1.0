@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=12V_HEATER_eFuse Pin=C414-1
+Removed Pin From Net: NetName=12V_HEATER_eFuse Pin=C418-2
+Removed Pin From Net: NetName=12V_HEATER_eFuse Pin=D28-1
+Removed Pin From Net: NetName=12V_HEATER_eFuse Pin=R654-1
+Removed Pin From Net: NetName=12V_HEATER_eFuse Pin=U27-6
+Added Pin To Net: NetName=LP_12V Pin=C414-1
+Added Pin To Net: NetName=LP_12V Pin=C418-2
+Added Pin To Net: NetName=LP_12V Pin=D28-1
+Added Pin To Net: NetName=LP_12V Pin=R654-1
+Added Pin To Net: NetName=LP_12V Pin=U27-6
+Added Member To Class: ClassName=18_HD4_PUMP_2 Member=Component C417 0.1uF/25V

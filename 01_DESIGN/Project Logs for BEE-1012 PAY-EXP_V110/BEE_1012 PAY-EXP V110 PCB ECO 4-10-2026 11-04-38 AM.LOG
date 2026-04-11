@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=IR_LED_GND Pin=D24-A
+Change Component Footprint: Designator=D24 Old Footprint=SOD3715X135N New Footprint=SOD3717X145N
+Change component parameters: Designator = "D24" ("D24"); Footprint = "SOD3715X135N"; UniqueID = "\XEIPPTSR" ("\XEIPPTSR")
+Added Pin To Net: NetName=IR_LED_P Pin=D24-1
+Added Pin To Net: NetName=IR_LED_GND Pin=D24-2
+Add Pin To Net: Unknown Pin: Pin U27-EPAD
