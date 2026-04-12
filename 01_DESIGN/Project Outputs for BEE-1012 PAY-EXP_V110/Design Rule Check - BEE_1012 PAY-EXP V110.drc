@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\1_AltiumProject\22_Satellite_EXP_V110\SpaceLiin-Satellite-4U-HW-1.1.0\01_DESIGN\BEE_1012 PAY-EXP V110.PcbDoc
-Date     : 4/11/2026
-Time     : 9:09:39 PM
+Date     : 4/12/2026
+Time     : 9:58:10 PM
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (WithinRoom('ROOM_eFUSE') or WithinRoom('ROOM_eFUSE_1') or WithinRoom('ROOM_eFUSE_2') or WithinRoom('ROOM_eFUSE_3') or WithinRoom('ROOM_eFUSE_4') or WithinRoom('ROOM_eFUSE_5') or WithinRoom('ROOM_eFUSE_6') or WithinRoom('ROOM_eFUSE_7') or WithinRoom('ROOM_eFUSE_8')),(All)
 Rule Violations :0
