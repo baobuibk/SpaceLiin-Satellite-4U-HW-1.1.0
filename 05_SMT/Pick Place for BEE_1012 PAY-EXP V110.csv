@@ -1,16 +1,18 @@
 Altium Designer Pick and Place Locations
-D:\1_Altium_Project\22_STL_EXP_v110\SpaceLiin-Satellite-4U-HW-1.1.0\01_DESIGN\Project Outputs for BEE-1012 PAY-EXP_V110\Pick Place for BEE_1012 PAY-EXP V110.csv
+D:\1_AltiumProject\22_Satellite_EXP_V110\SpaceLiin-Satellite-4U-HW-1.1.0\01_DESIGN\Project Outputs for BEE-1012 PAY-EXP_V110\Pick Place for BEE_1012 PAY-EXP V110.csv
 
 ========================================================================================================================
 File Design Information:
 
 Date:       13/04/26
-Time:       10:50
-Revision:   342953bc1b5d11c0a088836ec2a4bfc91fe74c2b
+Time:       22:00
+Revision:   df8d86b53f8da2ccd64489fa6773835a12bbb213
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R658","4.7k","TopLayer","RES_C_1005X40","137.6500","31.0000","180","RES"
+"R657","4.7k","TopLayer","RES_C_1005X40","132.2000","34.5000","0","RES"
 "C417","0.1uF/25V","TopLayer","CAP_C_1608X80","126.9000","60.4000","90","CAP"
 "D24","1N5819HW-7-F","TopLayer","SOD3717X145N","147.8005","52.4984","0","Zenner"
 "U27","AL8843SP-13","TopLayer","SOIC127P602X173-8N_EPAD","132.2000","62.7000","270","IC LED DRIVER RGLTR PWM 3A 8SO"
@@ -64,8 +66,8 @@ Units used: mm
 "C404","0.1uF/10V","BottomLayer","CAP_C_1005X60","72.8000","15.6000","90","CAP CHIP"
 "C403","0.1uF/10V","BottomLayer","CAP_C_1005X60","84.6000","15.6000","90","CAP CHIP"
 "R637","10k","TopLayer","RES_C_1005X40","55.9000","63.3000","270","RES"
-"R60","4.7k","BottomLayer","RES_C_1005X40","64.7000","22.3000","90","RES"
-"R38","4.7k","BottomLayer","RES_C_1005X40","54.1000","26.7000","90","RES"
+"R60","DNP/4.7k","BottomLayer","RES_C_1005X40","64.7000","22.3000","90","RES"
+"R38","DNP/4.7k","BottomLayer","RES_C_1005X40","54.1000","26.7000","90","RES"
 "JP7","DNP/0R","TopLayer","JUMPER_1608","70.5000","50.7935","270",""
 "FB2","BLM18PG121SN1D","BottomLayer","IND_C_1608X60","41.7000","69.9000","0",""
 "FB1","BLM18PG121SN1D","BottomLayer","IND_C_1608X60","32.7000","69.9000","0",""
@@ -526,10 +528,10 @@ Units used: mm
 "R330","4.7k","TopLayer","RES_C_1005X40","42.7990","49.3770","180","RES"
 "R329","4.7k","TopLayer","RES_C_1005X40","42.7990","47.4770","180","RES"
 "R328","0R","BottomLayer","RES_C_1005X40","49.7000","33.6000","90","RES"
-"R327","1M 1%","BottomLayer","RES_C_1005X40","50.2000","32.0000","0","RES"
+"R327","1M","BottomLayer","RES_C_1005X40","50.2000","32.0000","0","RES"
 "R326","DNP/0R","BottomLayer","RES_C_1005X40","72.5000","50.6000","180","RES"
 "R325","0R","BottomLayer","RES_C_1005X40","50.6000","33.6000","90","RES"
-"R324","1M 1%","BottomLayer","RES_C_1005X40","67.0000","49.4000","270","RES"
+"R324","1M","BottomLayer","RES_C_1005X40","67.0000","49.4000","270","RES"
 "R323","DNP/0R","BottomLayer","RES_C_1005X40","48.8000","33.6000","90","RES"
 "R322","DNP/22R","BottomLayer","RES_C_1005X40","51.5000","33.6000","90","RES"
 "R321","4.02k","BottomLayer","RES_C_1005X40","77.8000","38.2000","180","RES"
@@ -554,7 +556,7 @@ Units used: mm
 "R299","4.7k","BottomLayer","RES_C_1005X40","38.9000","11.3000","0","RES"
 "R298","3.24k","TopLayer","RES_C_1005X40","116.3000","44.8000","90","RES"
 "R297","DNP/4.7k","TopLayer","RES_C_1005X40","137.6500","34.6000","0","RES"
-"R296","4.7k","TopLayer","RES_C_1005X40","133.1500","35.5000","0","RES"
+"R296","4.7k","TopLayer","RES_C_1005X40","132.2000","35.4000","0","RES"
 "R295","22R","TopLayer","RES_C_1005X40","49.7000","71.3000","180","RES"
 "R294","10k","BottomLayer","RES_C_1005X40","93.7000","70.5000","90","RES"
 "R293","10k","BottomLayer","RES_C_1005X40","92.5000","70.5000","90","RES"
@@ -741,7 +743,7 @@ Units used: mm
 "R112","10k","BottomLayer","RES_C_1005X40","23.2000","68.0000","0","RES"
 "R111","100k","BottomLayer","RES_C_1005X40","28.4552","64.7000","180","RES"
 "R110","5.62k","TopLayer","RES_C_1005X40","101.9000","33.9500","270","RES"
-"R109","10M","BottomLayer","RES_C_1005X40","97.1000","29.7000","270","RES"
+"R109","1M","BottomLayer","RES_C_1005X40","97.1000","29.7000","270","RES"
 "R108","22R","TopLayer","RES_C_1005X40","93.2000","40.2000","180","RES"
 "R107","22R","TopLayer","RES_C_1005X40","93.2000","41.1000","180","RES"
 "R106","22R","TopLayer","RES_C_1005X40","93.2000","42.0000","180","RES"
@@ -840,7 +842,7 @@ Units used: mm
 "R11","22R","BottomLayer","RES_C_1005X40","123.9000","36.0000","0","RES"
 "R10","3.24k","TopLayer","RES_C_1005X40","20.6000","18.6000","0","RES"
 "R9","1k","TopLayer","RES_C_1005X40","2.9000","9.8000","0","RES"
-"R8","3.24k","TopLayer","RES_C_1005X40","2.9000","8.3000","0","RES"
+"R8","1k","TopLayer","RES_C_1005X40","2.9000","8.3000","0","RES"
 "R7","10k","TopLayer","RES_C_1005X40","22.7000","18.6000","0","RES"
 "Q27","BSS138NH6327XTSA2","BottomLayer","SOT-23-3","36.7119","42.1010","0","Transistor MOS"
 "Q2","DMG302PU-7","TopLayer","SOT95P240X120-3N","24.2000","70.5000","90",""
@@ -1125,8 +1127,8 @@ Units used: mm
 "C215","150pF/10V","BottomLayer","CAP_C_1005X60","93.2000","46.5000","0","CAP"
 "C214","0.1uF/10V","BottomLayer","CAP_C_1005X60","84.6000","11.4000","270","CAP CHIP"
 "C213","150pF/10V","BottomLayer","CAP_C_1005X60","93.2000","47.4000","0","CAP"
-"C212","0.1uF/10V","TopLayer","CAP_C_1005X60","132.5650","33.7000","90","CAP"
-"C211","0.1uF/10V","TopLayer","CAP_C_1005X60","132.5650","31.7000","270","CAP"
+"C212","0.1uF/10V","TopLayer","CAP_C_1005X60","132.2000","33.6000","0","CAP"
+"C211","0.1uF/10V","TopLayer","CAP_C_1005X60","132.2000","31.9000","0","CAP"
 "C210","0.1uF/10V","TopLayer","CAP_C_1005X60","139.9000","34.8000","90","CAP"
 "C209","0.1uF/10V","TopLayer","CAP_C_1005X60","139.9000","32.8000","90","CAP"
 "C208","4.7uF/10V","TopLayer","CAP_C_1005X60","89.0000","16.2000","180","CAP CHIP"
