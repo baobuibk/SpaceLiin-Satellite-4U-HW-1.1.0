@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C414 Old Footprint=CAP_MP_3216X180 New Footprint=CAP_C_2012X110
+Change Component Comment : Designator=C414 Old Comment=10uF/25V New Comment=10uF/20V
+Change component parameters: Designator = "C414" ("C414"); Footprint = "CAP_MP_3216X180"; UniqueID = "\BTDSXUTS" ("\BTDSXUTS")
