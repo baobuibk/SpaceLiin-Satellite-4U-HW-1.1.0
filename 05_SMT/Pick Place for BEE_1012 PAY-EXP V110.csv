@@ -4,9 +4,9 @@ D:\1_AltiumProject\22_Satellite_EXP_V110\SpaceLiin-Satellite-4U-HW-1.1.0\01_DESI
 ========================================================================================================================
 File Design Information:
 
-Date:       13/04/26
-Time:       22:00
-Revision:   df8d86b53f8da2ccd64489fa6773835a12bbb213
+Date:       14/04/26
+Time:       09:25
+Revision:   39b203289be5571f036e83254061147fe3d2dd67
 Variant:    No variations
 Units used: mm
 
@@ -586,10 +586,10 @@ Units used: mm
 "R269","10k","TopLayer","RES_C_1005X40","87.8000","70.5000","90","RES"
 "R268","22R","TopLayer","RES_C_1005X40","36.2500","71.3500","0","RES"
 "R267","22R","TopLayer","RES_C_1005X40","36.2500","74.8000","0","RES"
-"R266","DNP/22R","BottomLayer","RES_C_1005X40","36.9000","10.4000","270","RES"
-"R265","DNP/22R","BottomLayer","RES_C_1005X40","35.9000","10.4000","270","RES"
-"R264","DNP/22R","BottomLayer","RES_C_1005X40","34.9000","10.4000","270","RES"
-"R263","DNP/22R","BottomLayer","RES_C_1005X40","33.9000","10.4000","270","RES"
+"R266","DNP/22R","BottomLayer","RES_C_1005X40","34.9000","10.1000","270","RES"
+"R265","DNP/22R","BottomLayer","RES_C_1005X40","33.9000","10.1000","270","RES"
+"R264","DNP/22R","BottomLayer","RES_C_1005X40","36.9500","10.1000","270","RES"
+"R263","DNP/22R","BottomLayer","RES_C_1005X40","35.9500","10.1000","270","RES"
 "R262","22R","BottomLayer","RES_C_1005X40","36.9000","12.3500","0","RES"
 "R261","22R","BottomLayer","RES_C_1005X40","36.9000","13.4500","0","RES"
 "R260","22R","BottomLayer","RES_C_1005X40","36.9000","14.4500","0","RES"

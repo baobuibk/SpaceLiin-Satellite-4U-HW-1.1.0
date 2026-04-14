@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=VDD_3V3 Pin=J34-1
+Removed Pin From Net: NetName=CON_RS422_AB_P Pin=J34-2
+Removed Pin From Net: NetName=CON_RS422_AB_N Pin=J34-3
+Removed Pin From Net: NetName=CON_RS422_YZ_P Pin=J34-4
+Removed Pin From Net: NetName=CON_RS422_YZ_N Pin=J34-5
+Removed Pin From Net: NetName=GND Pin=J34-6
+Removed Pin From Net: NetName=OBC_RS422_AB_P Pin=R263-1
+Removed Pin From Net: NetName=CON_RS422_AB_P Pin=R263-2
+Removed Pin From Net: NetName=OBC_RS422_AB_N Pin=R264-1
+Removed Pin From Net: NetName=CON_RS422_AB_N Pin=R264-2
+Removed Pin From Net: NetName=OBC_RS422_YZ_P Pin=R265-1
+Removed Pin From Net: NetName=CON_RS422_YZ_P Pin=R265-2
+Removed Pin From Net: NetName=OBC_RS422_YZ_N Pin=R266-1
+Removed Pin From Net: NetName=CON_RS422_YZ_N Pin=R266-2
+Added Pin To Net: NetName=GND Pin=J34-1
+Added Pin To Net: NetName=VDD_3V3 Pin=J34-2
+Added Pin To Net: NetName=CON_RS422_YZ_P Pin=J34-3
+Added Pin To Net: NetName=CON_RS422_YZ_N Pin=J34-4
+Added Pin To Net: NetName=CON_RS422_AB_N Pin=J34-5
+Added Pin To Net: NetName=CON_RS422_AB_P Pin=J34-6
+Added Pin To Net: NetName=OBC_RS422_YZ_P Pin=R263-1
+Added Pin To Net: NetName=CON_RS422_YZ_P Pin=R263-2
+Added Pin To Net: NetName=OBC_RS422_YZ_N Pin=R264-1
+Added Pin To Net: NetName=CON_RS422_YZ_N Pin=R264-2
+Added Pin To Net: NetName=OBC_RS422_AB_N Pin=R265-1
+Added Pin To Net: NetName=CON_RS422_AB_N Pin=R265-2
+Added Pin To Net: NetName=OBC_RS422_AB_P Pin=R266-1
+Added Pin To Net: NetName=CON_RS422_AB_P Pin=R266-2
+Change Differential Pair Positive Net Name : Old Net Name=RS422_YZ_N New Net Name=RS422_YZ_P
+Change Differential Pair Negative Net Name : Old Net Name=RS422_YZ_P New Net Name=RS422_YZ_N

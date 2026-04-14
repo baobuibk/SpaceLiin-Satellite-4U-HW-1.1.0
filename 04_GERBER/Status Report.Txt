@@ -1,12 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
+Output: Report Board Stack
+Type  : Report Board Stack
 From  : Project [BEE-1012 PAY-EXP_V110.PrjPcb]
-   Generated File[BEE_1012 PAY-EXP V110.TXT]
-   Generated File[BEE_1012 PAY-EXP V110.LDP]
-   Generated File[BEE_1012 PAY-EXP V110.DRR]
+   Generated File[BEE_1012 PAY-EXP V110.xls]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 9:59:02 PM On 4/13/2026
+Finished Output Generation At 9:22:45 AM On 4/14/2026
