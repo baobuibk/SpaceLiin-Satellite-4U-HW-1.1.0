@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=U39 Old Footprint=SOIC127P599X175-8N New Footprint=SOIC127P600X175-8N
+Change Component Footprint: Designator=U40 Old Footprint=SOIC127P599X175-8N New Footprint=SOIC127P600X175-8N
+Change Component Footprint: Designator=U41 Old Footprint=SOIC127P599X175-8N New Footprint=SOIC127P600X175-8N
+Change Component Description : Designator=BT1 Old Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel New Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel | Keystone Electronics 3035
+Added Member To Class: ClassName=07_CAN Member=Component U39 SN65HVD230DR
+Added Member To Class: ClassName=07_CAN Member=Component U40 SN65HVD230DR
+Added Member To Class: ClassName=07_CAN Member=Component U41 SN65HVD230DR
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component U56 MB85RS2MTAPNF-G-BDERE1

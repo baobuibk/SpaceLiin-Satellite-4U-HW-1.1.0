@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=U39 Old Footprint=SOIC127P600X175-8N New Footprint=SOIC127P602X173-8N
+Change Component Footprint: Designator=U40 Old Footprint=SOIC127P600X175-8N New Footprint=SOIC127P602X173-8N
+Change Component Footprint: Designator=U41 Old Footprint=SOIC127P600X175-8N New Footprint=SOIC127P602X173-8N
+Added Member To Class: ClassName=07_CAN Member=Component U39 SN65HVD230DR
+Added Member To Class: ClassName=07_CAN Member=Component U41 SN65HVD230DR
